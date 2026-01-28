@@ -5,19 +5,27 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ⭐关键：允许 Actions 往仓库写文件
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install requests
+
       - run: python generate_ics.py
-      - run: |
-          git config user.name "github-bot"
-          git config user.email "bot@github.com"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/*.ics
           git commit -m "auto update calendars" || echo "no changes"
           git push
