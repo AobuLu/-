@@ -5,2622 +5,2622 @@ METHOD:PUBLISH
 X-WR-CALNAME:赵奕然 演出排期
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:72c0ddb5ee311c1b60d6131526f28f2fc7ba9377@saoju
-DTSTAMP:20260201T101737Z
+UID:7bc5a9db58a83f0e4c6f7ed54cbc4bcae4e5adfa@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230210T193000
 DTEND;TZID=Asia/Shanghai:20230210T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7d6ba9856f89dc5cb5ad82a6390e4f1ad1c430f2@saoju
-DTSTAMP:20260201T101737Z
+UID:a257f6b570aca3fabc16e44d0d755468029b250f@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230214T193000
 DTEND;TZID=Asia/Shanghai:20230214T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 脱骁尧（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2b0ae7265773bb32a60eed0e8297881fd2de7349@saoju
-DTSTAMP:20260201T101737Z
+UID:4cec83cbc64b371a49102d80a1b64b26d317dadd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230226T193000
 DTEND;TZID=Asia/Shanghai:20230226T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 郭洧江（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ef2351a87f445735250f7d07b063566d06ff4523@saoju
-DTSTAMP:20260201T101737Z
+UID:020d6324dd29e6e4cdcec40f982f3155cf1959d0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230303T193000
 DTEND;TZID=Asia/Shanghai:20230303T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1ab5333e3ec856db9f1e1b812e540a8564bb4fe3@saoju
-DTSTAMP:20260201T101737Z
+UID:a0091c451d1588541e31159a94533179badbdb2c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230305T193000
 DTEND;TZID=Asia/Shanghai:20230305T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 郭洧江（霍普）\n- 脱骁尧（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:43bd028bc3bd3da5b544137e3493c06c5618135b@saoju
-DTSTAMP:20260201T101737Z
+UID:a2dcde5e0b4eb368d45e5a77ce1ff5921c3b73c6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230311T193000
 DTEND;TZID=Asia/Shanghai:20230311T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 赵洪博（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a557a4afa74cb8f49aedd6bfa04baf5c45c92f78@saoju
-DTSTAMP:20260201T101737Z
+UID:7aefa4eb56d7358f90cb2688e0c770bc1ce3b655@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230318T193000
 DTEND;TZID=Asia/Shanghai:20230318T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e386588e2714b943e3dc7e64165fd6830a7a3ad9@saoju
-DTSTAMP:20260201T101737Z
+UID:d90c7a94da5e4d8d09f8acf406d3cb385b700b8a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230324T193000
 DTEND;TZID=Asia/Shanghai:20230324T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 李信（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f9ddbeee3e8f7b4694e31c3382e1fdf961a7de47@saoju
-DTSTAMP:20260201T101737Z
+UID:9b1078b98346c3e8ec1abd9608dd99498b7c1c84@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230402T193000
 DTEND;TZID=Asia/Shanghai:20230402T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:785d80579b9c5cf791978d17dc44d4974283a1c9@saoju
-DTSTAMP:20260201T101737Z
+UID:984cb815d362b864b116168de2a37bf7a9835874@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230414T200000
 DTEND;TZID=Asia/Shanghai:20230414T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:fa6dd62ec73474bbbeebf513a8d56b9dade5bcd8@saoju
-DTSTAMP:20260201T101737Z
+UID:9417a167fc34b7cc26fbda0d77d9444dfe71e2a7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230421T200000
 DTEND;TZID=Asia/Shanghai:20230421T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:cb94bf4e802509d83747eb1dfe0e076250bc927b@saoju
-DTSTAMP:20260201T101737Z
+UID:edafc805ba1d00540818465ef1980ef5ed6da9c2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230422T193000
 DTEND;TZID=Asia/Shanghai:20230422T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 张鼎棋（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f2479ca0b78c997abf615b35b32c5c29f5db4726@saoju
-DTSTAMP:20260201T101737Z
+UID:2e4bf287044a1c42a7796f9f4a5da2ff4c4cd1ae@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230429T200000
 DTEND;TZID=Asia/Shanghai:20230429T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:31027cbe25ade2c24fb5572f037b01930f3fa804@saoju
-DTSTAMP:20260201T101737Z
+UID:de9bad574e384be49198d9dd6435a4623cf88fde@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230430T193000
 DTEND;TZID=Asia/Shanghai:20230430T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 张鑫澳（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e16316b51a1a307976fe1692c2d0862beb73b758@saoju
-DTSTAMP:20260201T101737Z
+UID:db13db804980e36f8d4dc01acd87aa77c6d61b3c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230501T200000
 DTEND;TZID=Asia/Shanghai:20230501T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:1c5e6ffee7cb3ffb7d8b084e36e504153287376e@saoju
-DTSTAMP:20260201T101737Z
+UID:8858e1240d3504854cb64a0216b6b756336767a0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230502T193000
 DTEND;TZID=Asia/Shanghai:20230502T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0537a83e50e394f3c4f37996b845a0fc097ccb9a@saoju
-DTSTAMP:20260201T101737Z
+UID:b052525ef52dae3e648e9b795acc3902b7bca099@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230503T200000
 DTEND;TZID=Asia/Shanghai:20230503T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:b632083f72211b848669e50cecaa8cfc53a67f37@saoju
-DTSTAMP:20260201T101737Z
+UID:ab9c3fd4fadaa4ab09cb911be7933f8810185995@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230507T163000
 DTEND;TZID=Asia/Shanghai:20230507T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 脱骁尧（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9152b51fc3587f59107107ed4caf2e20d3c40dd9@saoju
-DTSTAMP:20260201T101737Z
+UID:7c8f360752bc3e3a07d53d2b7ead2d299d60acaa@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230512T200000
 DTEND;TZID=Asia/Shanghai:20230512T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:10b83e77eb60580c6e5eb0a048df34900870f09e@saoju
-DTSTAMP:20260201T101737Z
+UID:6d8cca6ecb4fa5db69fe056c67d30b4ee8109f25@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230519T200000
 DTEND;TZID=Asia/Shanghai:20230519T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:f14a2467b8de8243e27d4e9c2c19fe173d8a6f44@saoju
-DTSTAMP:20260201T101737Z
+UID:364230129d75fccf49b3d7b47c4300492e4a3412@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230520T143000
 DTEND;TZID=Asia/Shanghai:20230520T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7a543859fef6a93dc54e5ce729a05926b3cfbec7@saoju
-DTSTAMP:20260201T101737Z
+UID:d6d7be775f3db7e2a6021d76ec976ff42e5d55f6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230521T200000
 DTEND;TZID=Asia/Shanghai:20230521T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:31725debc4addc336ae407e830f057a3c362846f@saoju
-DTSTAMP:20260201T101737Z
+UID:4803ce1f4ce8a6844552bd43c843bd7f65352e56@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230527T200000
 DTEND;TZID=Asia/Shanghai:20230527T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:9a5e60285e9740b996264c6dde4f185d22129b7d@saoju
-DTSTAMP:20260201T101737Z
+UID:dcf14d61afc1b5af372a3da86047cf82d4de1292@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230528T163000
 DTEND;TZID=Asia/Shanghai:20230528T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5193257c51898362e8a06edf87e4345bd1a245ba@saoju
-DTSTAMP:20260201T101737Z
+UID:367d2e47e37a10519f24fdc454d5f77f72780a3e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230603T200000
 DTEND;TZID=Asia/Shanghai:20230603T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:43c63482762d7f86c5b0da42205e9821b1a535f6@saoju
-DTSTAMP:20260201T101737Z
+UID:e2bd5f96216f9c9e48094129d6019680a46b72e1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230604T163000
 DTEND;TZID=Asia/Shanghai:20230604T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 钟政（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5ef1109ff237f026f4591903ac2476372a1aed8f@saoju
-DTSTAMP:20260201T101737Z
+UID:516289107768a5bd27c3805550111a0c5b1ea4b5@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230609T200000
 DTEND;TZID=Asia/Shanghai:20230609T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:7b5139a5fdfc3ee482d30a7acae1a14cddffa277@saoju
-DTSTAMP:20260201T101737Z
+UID:4c708ea1a2fb0c7502b097dd10d2ed37b04621f1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230616T193000
 DTEND;TZID=Asia/Shanghai:20230616T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d3f2f50ef2ff6cdf2cf512ea5568913ad02d5128@saoju
-DTSTAMP:20260201T101737Z
+UID:66da96f16eaeb2a735a71062d5ce61c81504f873@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230623T200000
 DTEND;TZID=Asia/Shanghai:20230623T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:3c8e29a4e927e62e6947c6d4530fecc9fc349afa@saoju
-DTSTAMP:20260201T101737Z
+UID:287ac6d1311c0cac7449b597e4936a5287c25c76@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230714T200000
 DTEND;TZID=Asia/Shanghai:20230714T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:9a7eb37e2913cbdec061a78064d1afc58b6259ec@saoju
-DTSTAMP:20260201T101737Z
+UID:5c18e3a4f199e303fcbf2039d99d591f1d2b110e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230715T200000
 DTEND;TZID=Asia/Shanghai:20230715T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:0b708a9c670a771b801407caf8225bc504d98351@saoju
-DTSTAMP:20260201T101737Z
+UID:b7fc8ea0b21fbc4f03b2363794b8ccfdafc4e404@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230721T200000
 DTEND;TZID=Asia/Shanghai:20230721T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:9de48275073bfcf4153b45fa5c0c275d96666279@saoju
-DTSTAMP:20260201T101737Z
+UID:95a01222b5116972382bf01330d949555a315e2c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230722T200000
 DTEND;TZID=Asia/Shanghai:20230722T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:a0367f4d540c338605e154b78662be7ae55bc3ca@saoju
-DTSTAMP:20260201T101737Z
+UID:3eae69947c8019249c762b0a1aae065f8313d815@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230723T200000
 DTEND;TZID=Asia/Shanghai:20230723T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:4aa19b0e3730c11fabf4c6215f2115d5c61a1b06@saoju
-DTSTAMP:20260201T101737Z
+UID:b3ccc43f1ceef17e82bc49f364c1036402c0574c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230728T190000
 DTEND;TZID=Asia/Shanghai:20230728T210000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:95a82123cee465ce3b447e9063e11fd7f9c9aec8@saoju
-DTSTAMP:20260201T101737Z
+UID:bb0d1d1d6480f48c692c62bc0a8639d8646ba790@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230729T190000
 DTEND;TZID=Asia/Shanghai:20230729T210000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:53c782730cd982ecdcd7cfaf08d1c2e7dd40f234@saoju
-DTSTAMP:20260201T101737Z
+UID:17eaaa1750bd5762b42d7acfc49d6fc20dc2b834@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230730T200000
 DTEND;TZID=Asia/Shanghai:20230730T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:17966dfa658dcbb437be4f3c3de89eb2332f1106@saoju
-DTSTAMP:20260201T101737Z
+UID:600b5cb7fa7501042ee76373634399b6c184bf14@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230804T200000
 DTEND;TZID=Asia/Shanghai:20230804T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:0711c7224fe2b4735cf8977b4dfb296f9ae3388b@saoju
-DTSTAMP:20260201T101737Z
+UID:269fcd30cfce3ceb4cc73bbc1f22adb95a3d141d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230805T193000
 DTEND;TZID=Asia/Shanghai:20230805T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 唐浩瑜（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:15abfa0444e82b909023ed39143a66665bf7f55a@saoju
-DTSTAMP:20260201T101737Z
+UID:4463748bab504beec5bc8dcdf0fe23dcd076cfec@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230812T200000
 DTEND;TZID=Asia/Shanghai:20230812T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:f7a2b0d2d35caf4bd2b4a836612160125733ae9e@saoju
-DTSTAMP:20260201T101737Z
+UID:b6a8f2e313b1df0d84eb9fa2f03387c42551d09f@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230813T200000
 DTEND;TZID=Asia/Shanghai:20230813T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 姚一依（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:ab5f8ecc920e2bd0dd75ddddc6b3bdd9300c645c@saoju
-DTSTAMP:20260201T101737Z
+UID:fd50821948f42eaa9589d613dd3f190393e35886@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230818T200000
 DTEND;TZID=Asia/Shanghai:20230818T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:9a37e68472e994c4a439fff40ebb41ca0da52a02@saoju
-DTSTAMP:20260201T101737Z
+UID:2b8e766a08dc13c57ba02db0c1d7b304f9923df6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230820T200000
 DTEND;TZID=Asia/Shanghai:20230820T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:3b036dca368dcdd6c458cbf71ca8a23f6da525e6@saoju
-DTSTAMP:20260201T101737Z
+UID:36ca1123b26560c4d93d67b5df6b49b6cc93f46e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230825T190000
 DTEND;TZID=Asia/Shanghai:20230825T210000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:07201984f576c1576a4515859e553041a39a07a2@saoju
-DTSTAMP:20260201T101737Z
+UID:3b84da964998e9548ab33a08f0f135e2ed979b30@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230826T190000
 DTEND;TZID=Asia/Shanghai:20230826T210000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0b49c0726b071f95629d70b26bbc3c3ad51eec09@saoju
-DTSTAMP:20260201T101737Z
+UID:6c2d40383ddc5a28aa3a37bd4aace9e1695439a4@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230827T200000
 DTEND;TZID=Asia/Shanghai:20230827T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 王竞琦（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:f9df19d3bbbc4761c69ef336fb401d654cb8388a@saoju
-DTSTAMP:20260201T101737Z
+UID:1b1279cf1207b5d34d74ba71b7612f9a4cd0a5cd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230902T143000
 DTEND;TZID=Asia/Shanghai:20230902T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:156c3d32157e0c5bd0d3e99d43d465b12abb74fb@saoju
-DTSTAMP:20260201T101737Z
+UID:c06c488b740eaf6cfba157e6ed360414d11910bb@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230909T200000
 DTEND;TZID=Asia/Shanghai:20230909T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 赵昀迪（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:5641089795573b5fab044f585abc3102ad4ce527@saoju
-DTSTAMP:20260201T101737Z
+UID:641eb65f10dba3851c3782b624e769ca3877428e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230910T200000
 DTEND;TZID=Asia/Shanghai:20230910T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 赵昀迪（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:8b52a739f4b317397e17bff5384d910c42f5ddb4@saoju
-DTSTAMP:20260201T101737Z
+UID:e3a515c5f41a3cffd316d5b7b030d79b7bc8b21c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230915T200000
 DTEND;TZID=Asia/Shanghai:20230915T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 赵昀迪（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:eb8f6cbfc174aeda61454f927b901ba183fe2d60@saoju
-DTSTAMP:20260201T101737Z
+UID:3bcd04d557984103666a431aa142019e65412bc2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230917T163000
 DTEND;TZID=Asia/Shanghai:20230917T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1160d9b94641c5630df6e816760bb0700c248f19@saoju
-DTSTAMP:20260201T101737Z
+UID:01923be0678838b85278306e8438f6b952f92011@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230922T200000
 DTEND;TZID=Asia/Shanghai:20230922T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 缪银海（CESAR）\n- 赵昀迪（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:30f28e47f4d947392b3debd53122469221fce27c@saoju
-DTSTAMP:20260201T101737Z
+UID:114bfa218216805440f710e486d34d8542e86bc7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230923T193000
 DTEND;TZID=Asia/Shanghai:20230923T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:66cdd7d27248d7c3f131f3d783867adb9bc62d35@saoju
-DTSTAMP:20260201T101737Z
+UID:b1014744f1bf70a3f4016d13779995e3175c1442@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230928T193000
 DTEND;TZID=Asia/Shanghai:20230928T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:73c5aa5b8d495ecdc03f1631444c882868d87f61@saoju
-DTSTAMP:20260201T101737Z
+UID:ce0d268eec6fc991f69c6efff83658b8ecb67939@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20230930T200000
 DTEND;TZID=Asia/Shanghai:20230930T220000
-SUMMARY:Hi Hi 莎士比亚｜PATRICK
+SUMMARY:Hi Hi 莎士比亚｜赵奕然｜PATRICK
 LOCATION:成都 off stage live
-DESCRIPTION:演员：赵奕然\n角色：PATRICK\n城市：成都\n剧院：off stage live
+DESCRIPTION:演员：赵奕然\n角色：PATRICK\n\n同场演员（本场完整卡司）：\n- 赵奕然（PATRICK）  ← 本日历主角\n- 黄雨蝶（JULIA）\n- 杜皓云（CESAR）\n- 赵昀迪（HELEN）\n\n城市：成都\n剧院：off stage live
 END:VEVENT
 BEGIN:VEVENT
-UID:98b3411349b31e7076f4849d9888a10b141ae0ae@saoju
-DTSTAMP:20260201T101737Z
+UID:567bf9d3c7e9c9e40ef5520edaeb1702037ecc89@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231001T143000
 DTEND;TZID=Asia/Shanghai:20231001T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:8cbd49eef0c3e4e6dbf0f0aec154cad57a06386b@saoju
-DTSTAMP:20260201T101737Z
+UID:5e5b6d954237cdd9669f1079fb66e030546c41a4@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231022T163000
 DTEND;TZID=Asia/Shanghai:20231022T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:36aa3359eceea5315e3507b51fa55968e1bb4f25@saoju
-DTSTAMP:20260201T101737Z
+UID:def14c4ad145b4abd9e4a0d995552c93e5eb161c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231029T163000
 DTEND;TZID=Asia/Shanghai:20231029T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:48df7fb5e480b484c4f09a26aae1eeacf4da909f@saoju
-DTSTAMP:20260201T101737Z
+UID:71fb20de0600dee8df9c59401c20831522ed2285@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231103T193000
 DTEND;TZID=Asia/Shanghai:20231103T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5fdaae9cb1ac6dd47eaf0bfd0fa0eef93b96683a@saoju
-DTSTAMP:20260201T101737Z
+UID:593463c700597db8330d3e55520f0c010e75d746@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231112T143000
 DTEND;TZID=Asia/Shanghai:20231112T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:41263440d0d61e169ea24376545f3e65df151f48@saoju
-DTSTAMP:20260201T101737Z
+UID:572a1f6026f9bbbb32ef1c21d419318efe490f06@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231208T193000
 DTEND;TZID=Asia/Shanghai:20231208T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:fbff78cc6191168653058f877ba16d2c945aa5eb@saoju
-DTSTAMP:20260201T101737Z
+UID:0fd787f6b6e7bd87e0c5e70e85fd3f8dee38a397@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231209T153000
 DTEND;TZID=Asia/Shanghai:20231209T173000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6bacd19e60b31bbcd90ec80d074692c2b4d52396@saoju
-DTSTAMP:20260201T101737Z
+UID:4222d87087bd6cea00827e24d9bb9a5b3bc0477e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231215T193000
 DTEND;TZID=Asia/Shanghai:20231215T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0511707391d11a42b694ba0a6afbf97e37001921@saoju
-DTSTAMP:20260201T101737Z
+UID:b1349ca8fbbc1d541450cdccc05037ee75a47de6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231229T193000
 DTEND;TZID=Asia/Shanghai:20231229T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3a4ffaabc8083725f92640a38fc56b011721a44e@saoju
-DTSTAMP:20260201T101737Z
+UID:63a98ec0d978b30d3a7b3054849d3ef739b9add2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20231231T143000
 DTEND;TZID=Asia/Shanghai:20231231T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6fa08ffae6c2c0e04a59a7791627b08d166f24b6@saoju
-DTSTAMP:20260201T101737Z
+UID:261f6e979ff2b0b5b8515a6891c16697f91ff102@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240114T163000
 DTEND;TZID=Asia/Shanghai:20240114T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:02831b9a626ba0c5a127c34e7fda413aaaf43eda@saoju
-DTSTAMP:20260201T101737Z
+UID:81fd68cc5e8aecae6bdf3042c7c40e0ec28e519b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240119T193000
 DTEND;TZID=Asia/Shanghai:20240119T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:74fbd0a7fd8bcc7ee816b8aa7a244452a2f5c396@saoju
-DTSTAMP:20260201T101737Z
+UID:e796287fe6d3314390d956a79fc24c99dca38296@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240225T163000
 DTEND;TZID=Asia/Shanghai:20240225T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3c32c840e4ec08ffabf16c88df23c452bc5365bf@saoju
-DTSTAMP:20260201T101737Z
+UID:3980ccbc93854cdf611d6bd492a69ee4ebf92d81@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240308T193000
 DTEND;TZID=Asia/Shanghai:20240308T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d0e0b537e75cfac28585229bc711a9520ecf6013@saoju
-DTSTAMP:20260201T101737Z
+UID:6c7d8eccf0250e913256bd059cbd32a78e617c89@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240317T163000
 DTEND;TZID=Asia/Shanghai:20240317T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0f2ed3ac14e1263818f3bbc88d9b556937074255@saoju
-DTSTAMP:20260201T101737Z
+UID:b6a82a9ec3ca4716c2b03d0799e1967a270e9f81@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240330T193000
 DTEND;TZID=Asia/Shanghai:20240330T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 罗涣涣（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f827de03950e017797ae98a68d123f4a37110fa2@saoju
-DTSTAMP:20260201T101737Z
+UID:b6b0c244f67bca917311c03f2ce3c19f38754d2d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240331T163000
 DTEND;TZID=Asia/Shanghai:20240331T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f10bfe92ed2b3d790a4ba878bd90dca1f15b16e2@saoju
-DTSTAMP:20260201T101737Z
+UID:8bfa6d5c9ab8d5a9b0914a00c391d8883760efc7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240404T193000
 DTEND;TZID=Asia/Shanghai:20240404T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:316f07a5f669df6560e2fb4131953a47c70e3a77@saoju
-DTSTAMP:20260201T101737Z
+UID:93db6160e3225f4bf5bb2ea0a2d03416595a3790@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240414T163000
 DTEND;TZID=Asia/Shanghai:20240414T183000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6336dd6b7a697a6dd249c39144c226bd17df714a@saoju
-DTSTAMP:20260201T101737Z
+UID:96bdc43d0e4351fda7d39b26efa1a247c0ed6f63@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240501T143000
 DTEND;TZID=Asia/Shanghai:20240501T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 陈志鹏（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f58700df1eca59bd5e382ba3c6bc438c209832ea@saoju
-DTSTAMP:20260201T101737Z
+UID:b8af4a4f94c66576b482d82c48e5c613182ae1bc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240505T143000
 DTEND;TZID=Asia/Shanghai:20240505T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 傅郅宸（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7bffd51131812aaf163e02857356b3ae341a6d19@saoju
-DTSTAMP:20260201T101737Z
+UID:80a8dc9758b76b20696868ab7ea0aa2f846c76de@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240509T193000
 DTEND;TZID=Asia/Shanghai:20240509T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 翟松（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:4c6d9b53b72111de39bc1f171729f7746ef46c7f@saoju
-DTSTAMP:20260201T101737Z
+UID:346000c4e579e4bec10822c8c70454f4f993ae30@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240531T193000
 DTEND;TZID=Asia/Shanghai:20240531T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 郑金铠（霍普）\n- 陈志鹏（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:73428f5ea66de797de00141f3380e63ab47c9be5@saoju
-DTSTAMP:20260201T101737Z
+UID:dff254f24ae42950f76e1815cb1982bdb796adc0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240601T193000
 DTEND;TZID=Asia/Shanghai:20240601T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 杨博皓（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ece8865d7a4f5aea901533b460b0b0b28a898f73@saoju
-DTSTAMP:20260201T101737Z
+UID:206e261677712cac40d87f1601bdeeb2c571a1c2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240614T193000
 DTEND;TZID=Asia/Shanghai:20240614T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 郑金铠（霍普）\n- 杜舟（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5bde8dd42fecc7d77124614f0e3f6f41dd628fb3@saoju
-DTSTAMP:20260201T101737Z
+UID:f8e688c1b8cdfc970397a3938c78fd98c2e68c40@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240622T193000
 DTEND;TZID=Asia/Shanghai:20240622T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:27b76c353aecdb9bb8e64d16d1e27373fade3520@saoju
-DTSTAMP:20260201T101737Z
+UID:678d38907d6bdf9f3ea321cdcfc3ed32c6e9cb14@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240705T193000
 DTEND;TZID=Asia/Shanghai:20240705T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 韩佳旭（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:766a542370f1ef0095d600faacc6f2f59c19a84c@saoju
-DTSTAMP:20260201T101737Z
+UID:5dfebba49d829e36d34781e2ada218231d0cc3cf@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240706T193000
 DTEND;TZID=Asia/Shanghai:20240706T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:成都 西部文化产业中心·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：成都\n剧院：西部文化产业中心·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 范杰（守塔人）\n\n城市：成都\n剧院：西部文化产业中心·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9ca84de09d58f7965c57321ce0895701fea84d10@saoju
-DTSTAMP:20260201T101737Z
+UID:de7096b9a46938b2b2a5b03bdd7422c8c937e036@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240803T143000
 DTEND;TZID=Asia/Shanghai:20240803T163000
-SUMMARY:嘿！亚利桑那｜怀亚特
+SUMMARY:嘿！亚利桑那｜午｜赵奕然｜怀亚特
 LOCATION:成都 开心麻花·钻石酒馆
-DESCRIPTION:演员：赵奕然\n角色：怀亚特\n城市：成都\n剧院：开心麻花·钻石酒馆
+DESCRIPTION:演员：赵奕然\n角色：怀亚特\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀亚特）  ← 本日历主角\n- 张雨桐（简）\n- 赵嘉恒（比利）\n- 姚一依（约瑟芬）\n- 裴昊轶（强尼）\n- 张飞扬（哈利）\n- 李京洙（波特）\n\n城市：成都\n剧院：开心麻花·钻石酒馆
 END:VEVENT
 BEGIN:VEVENT
-UID:0b137b4932f3a59f0644999f06183cef1aa8ca31@saoju
-DTSTAMP:20260201T101737Z
+UID:094acb6dda96b97d7282f045fd11a4b9b16e0161@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240803T193000
 DTEND;TZID=Asia/Shanghai:20240803T213000
-SUMMARY:嘿！亚利桑那｜怀亚特
+SUMMARY:嘿！亚利桑那｜晚｜赵奕然｜怀亚特
 LOCATION:成都 开心麻花·钻石酒馆
-DESCRIPTION:演员：赵奕然\n角色：怀亚特\n城市：成都\n剧院：开心麻花·钻石酒馆
+DESCRIPTION:演员：赵奕然\n角色：怀亚特\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀亚特）  ← 本日历主角\n- 张雨桐（简）\n- 赵嘉恒（比利）\n- 张雨桐（约瑟芬）\n- 裴昊轶（强尼）\n- 张飞扬（哈利）\n- 张弋（波特）\n\n城市：成都\n剧院：开心麻花·钻石酒馆
 END:VEVENT
 BEGIN:VEVENT
-UID:d347c25cbf67505bb38a591b22076d746e83dd53@saoju
-DTSTAMP:20260201T101737Z
+UID:c01494160667ea0a65bcc810c934b8dda610aca9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240925T193000
 DTEND;TZID=Asia/Shanghai:20240925T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 钟子崴（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e52c814a47985fee30ae301c44468e00f2ef1a78@saoju
-DTSTAMP:20260201T101737Z
+UID:2d67276199e4231fb9f8d1fdfadfff6816aedab0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20240928T193000
 DTEND;TZID=Asia/Shanghai:20240928T213000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜晚｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 诸葛北辰（铁皮）\n- 梁庆海（MAX）\n- 张宇熙（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:fe9279c1e41050369a47270e40bbf467d71b2c36@saoju
-DTSTAMP:20260201T101737Z
+UID:97a6e530e7cf295ebd54efbacd691f3d0ce16d00@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241002T193000
 DTEND;TZID=Asia/Shanghai:20241002T213000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜晚｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 臧鲁滨（铁皮）\n- 梁庆海（MAX）\n- 刘凡滔（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:d5238478ad06b7084ca8f24eae5221c7816fba60@saoju
-DTSTAMP:20260201T101737Z
+UID:af2e680fd63132efc4b2ea4bcc62076b2c88f3b9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241007T193000
 DTEND;TZID=Asia/Shanghai:20241007T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 钟子崴（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2e5dd609eff2ecdbbfb9fb3a48ac42bd52f667b1@saoju
-DTSTAMP:20260201T101737Z
+UID:687ab794414934597cb7ac11c008ebf083a59ed3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241008T193000
 DTEND;TZID=Asia/Shanghai:20241008T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 钟子崴（卡路）\n- 左溢（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5508cab58ae4442ee622098df3bf073df7c12f32@saoju
-DTSTAMP:20260201T101737Z
+UID:e0814318d35a5d2cd2bcaa6ce2b913b373341fc3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241009T193000
 DTEND;TZID=Asia/Shanghai:20241009T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 周宇杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:abed756378924ebcce6e173d34b274059b019dd4@saoju
-DTSTAMP:20260201T101737Z
+UID:c77cff21be404f06f56efa8beab95ba475f5ed58@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241012T193000
 DTEND;TZID=Asia/Shanghai:20241012T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 钟子崴（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e5821cb6880381966898a12e084c16fc330e44cd@saoju
-DTSTAMP:20260201T101737Z
+UID:1a23d53ac190ec40049522e2bcc6334cb481351a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241013T143000
 DTEND;TZID=Asia/Shanghai:20241013T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 周宇杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1f1b8affa9f4461b4aaa74583bd10ea28d7a22a9@saoju
-DTSTAMP:20260201T101737Z
+UID:65bf4754c08c352f77ea16dae42c79884495bf17@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241016T193000
 DTEND;TZID=Asia/Shanghai:20241016T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:cabecfb33a28ebebf5d6ceccd2880eb7f673df7b@saoju
-DTSTAMP:20260201T101737Z
+UID:b0cd1a126b156dd11b55cf418336a5d2df6832f6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241019T143000
 DTEND;TZID=Asia/Shanghai:20241019T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 廖城志（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:6eedd888141bc9495c5f38bcd984b9b29b4b1423@saoju
-DTSTAMP:20260201T101737Z
+UID:d3bdf018f1a2613a0b29417c23a051ef35fe5d24@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241020T143000
 DTEND;TZID=Asia/Shanghai:20241020T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:e9487e1424441dcd45767903e92b48095747d126@saoju
-DTSTAMP:20260201T101737Z
+UID:ada1e45cada33321268fd31eba51ec49e11eb5bc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241025T193000
 DTEND;TZID=Asia/Shanghai:20241025T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 曹屿辰（卡路）\n- 姜义哲（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0eee6499840bb05bc57ca5508f691d7f34a8eaf0@saoju
-DTSTAMP:20260201T101737Z
+UID:7e460c1c49034480576223fcf7eefe99ec1b2143@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241026T193000
 DTEND;TZID=Asia/Shanghai:20241026T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 姜义哲（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:466a21de73bf9d93268385ffa8499817e70149af@saoju
-DTSTAMP:20260201T101737Z
+UID:f9c6d3fface58d21c179560a691055bc71bc8787@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241027T193000
 DTEND;TZID=Asia/Shanghai:20241027T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 曹屿辰（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5ecc4c9f0658e2221c1e1841b6577ec87cb4f975@saoju
-DTSTAMP:20260201T101737Z
+UID:b0b5f9d41e388fa5b92b7ad4e7adc18a339f590e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241030T193000
 DTEND;TZID=Asia/Shanghai:20241030T213000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜晚｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 尚一航（铁皮）\n- 蒲铖（MAX）\n- 刘子赫（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:4a5e96bcac77d074679ea4e776946e31812e89ea@saoju
-DTSTAMP:20260201T101737Z
+UID:607be4a280d0af8d74fb0f940ba660a6d6eea0bd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241102T193000
 DTEND;TZID=Asia/Shanghai:20241102T213000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜晚｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 诸葛北辰（铁皮）\n- 梁庆海（MAX）\n- 刘凡滔（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:2d5ea49e1743f3954ae563db9ff5555f33cdd334@saoju
-DTSTAMP:20260201T101737Z
+UID:a1a263dc7f706fb14ff178a1b6fc42d50de56ddf@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241103T143000
 DTEND;TZID=Asia/Shanghai:20241103T163000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜午｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 成昊宇（铁皮）\n- 肖笛（MAX）\n- 刘凡滔（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:2b70fe79e03529358e9f429ca1adce9ac76acdc2@saoju
-DTSTAMP:20260201T101737Z
+UID:3a2fa51a25f10974401d5e5feabba41b88348f15@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241110T193000
 DTEND;TZID=Asia/Shanghai:20241110T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 周宇杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6f9828628d0e2f0549cf5e36e061a046c2e19861@saoju
-DTSTAMP:20260201T101737Z
+UID:0f4f70fc6444d0b66b1ad0544d0cd94aa38e13da@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241116T193000
 DTEND;TZID=Asia/Shanghai:20241116T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:de6540929dcc0900cd418959278a856b85d5a35c@saoju
-DTSTAMP:20260201T101737Z
+UID:cef714b621acca1f35798c55d858e33afaf5de95@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241122T193000
 DTEND;TZID=Asia/Shanghai:20241122T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:46f40d6f8a799a73851a93d7f26442bb5a198e85@saoju
-DTSTAMP:20260201T101737Z
+UID:2dd56dfd87a02adfb1f577c08125320e401fc543@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241123T193000
 DTEND;TZID=Asia/Shanghai:20241123T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王常凯（卡路）\n- 廖城志（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:874429ca881203fec043adff6e92597da54a0e6b@saoju
-DTSTAMP:20260201T101737Z
+UID:1e1da68f265a4255fd79461c435d1996d45f5344@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241124T143000
 DTEND;TZID=Asia/Shanghai:20241124T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 廖城志（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:f4502ca8e32eb0e0be81051ec457aa590fa67945@saoju
-DTSTAMP:20260201T101737Z
+UID:f05185bb74ff3d6086a1a9005b989dfb470c8ba3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241130T143000
 DTEND;TZID=Asia/Shanghai:20241130T163000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜午｜赵奕然｜怀恩
 LOCATION:上海 星空间9号·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：上海\n剧院：星空间9号·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 翟松（守塔人）\n\n城市：上海\n剧院：星空间9号·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:91e07cbf586d19c367629705bf8bfdc307fb438a@saoju
-DTSTAMP:20260201T101737Z
+UID:670cb2b64413c9f53854d8f282f92ce2a612a594@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241201T143000
 DTEND;TZID=Asia/Shanghai:20241201T163000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜午｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 成昊宇（铁皮）\n- 陈蕴（MAX）\n- 金谦逊（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:8ce5e549e57b8be881787bfc5cb4b360b7354f7d@saoju
-DTSTAMP:20260201T101737Z
+UID:9f923a7c492812a210fe201ae681c03a3a58a2ac@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241206T193000
 DTEND;TZID=Asia/Shanghai:20241206T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:884c8b6752c168fbdf715d7351b8ae1ac9a00f38@saoju
-DTSTAMP:20260201T101737Z
+UID:722bdaaec21a573023b23d6525ac5e8c607f3ca3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241207T143000
 DTEND;TZID=Asia/Shanghai:20241207T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:784131c69d8f966b851157de6d35eef91ed8db21@saoju
-DTSTAMP:20260201T101737Z
+UID:e860dfc9cc877aec3255301e06996483f9787b31@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241208T143000
 DTEND;TZID=Asia/Shanghai:20241208T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3afd9ac2990f238e61fbe35c2718485b78e915b5@saoju
-DTSTAMP:20260201T101737Z
+UID:bda5da89af98f5d14ad6e1eaba6255065c1975fb@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241213T193000
 DTEND;TZID=Asia/Shanghai:20241213T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:上海 星空间9号·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：上海\n剧院：星空间9号·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 孙欣业（守塔人）\n\n城市：上海\n剧院：星空间9号·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ff9dfb7f482f162b9ec543b8d30691a276bf03fb@saoju
-DTSTAMP:20260201T101737Z
+UID:4d7946512cbc653524f3eef2d23fbb020e4a3521@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241214T193000
 DTEND;TZID=Asia/Shanghai:20241214T213000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜晚｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 刘恒瑜（梅瑞狄斯）\n- 刘子赫（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:5cbbc2a343b27b28bd5f338c227de069a2e45929@saoju
-DTSTAMP:20260201T101737Z
+UID:09d54c2f75880bd09c39389dd2a04147bc2de4e5@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241215T143000
 DTEND;TZID=Asia/Shanghai:20241215T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 刘恒瑜（梅瑞狄斯）\n- 王瑞（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:4ff848fd3fe1a4c5c7a32fc8473269fdf2c4c33d@saoju
-DTSTAMP:20260201T101737Z
+UID:2b1272104358c955e86c628d8a7e2ac8a400ce01@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241220T193000
 DTEND;TZID=Asia/Shanghai:20241220T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 樊哲（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a1ba1f7801802adf5eec6aa73140f86e09d40c82@saoju
-DTSTAMP:20260201T101737Z
+UID:0aa0f3c18563756cadf9642d0c5cfd9cb4f0c784@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241221T143000
 DTEND;TZID=Asia/Shanghai:20241221T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 钟子崴（卡路）\n- 樊哲（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9ceaab6bda23114fbee1372cdf881925e4f72a87@saoju
-DTSTAMP:20260201T101737Z
+UID:6811eb284dcd496d594a32e9d588fce9585237d2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241225T193000
 DTEND;TZID=Asia/Shanghai:20241225T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:188a743c2af96290768acd778099967cfd4472d0@saoju
-DTSTAMP:20260201T101737Z
+UID:b512d71acb6dff83f4d2f98838271a006a9b77ac@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241227T193000
 DTEND;TZID=Asia/Shanghai:20241227T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:57924705c8b271c516085bec304229dc729f4a8b@saoju
-DTSTAMP:20260201T101737Z
+UID:6ddc6dc6ca1425481b7dc7ac61cf445d7897042c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20241228T193000
 DTEND;TZID=Asia/Shanghai:20241228T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 丁梓奕（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:7d71ce1ff67d4617041c6e76ad4e8acfdc4656a5@saoju
-DTSTAMP:20260201T101737Z
+UID:d6e3810cdfdfafd93f14a5d3fea447cfb703ddd2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250105T143000
 DTEND;TZID=Asia/Shanghai:20250105T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王富有（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:45f3dbc57f9240d2cb0b25dda23045511869688e@saoju
-DTSTAMP:20260201T101737Z
+UID:631bcdfb6ad9906456b43cd43d0d528e6682eac5@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250110T193000
 DTEND;TZID=Asia/Shanghai:20250110T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 温升宝（卡路）\n- 叶宇锋（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f0b16d4bdaeda04485eacfb9e7ba8f36c639e9de@saoju
-DTSTAMP:20260201T101737Z
+UID:091bf421ddff7dc9691e1f219939413785052795@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250112T143000
 DTEND;TZID=Asia/Shanghai:20250112T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 杭筱玥（梅瑞狄斯）\n- 陈壬权（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:f77954e22519073817a63d09d36a4f6470c8c20e@saoju
-DTSTAMP:20260201T101737Z
+UID:ea82365d94bd07ebca957e7fc9d8fafdd76521e0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250117T193000
 DTEND;TZID=Asia/Shanghai:20250117T213000
-SUMMARY:灯塔｜怀恩
+SUMMARY:灯塔｜晚｜赵奕然｜怀恩
 LOCATION:上海 星空间9号·鲸剧场
-DESCRIPTION:演员：赵奕然\n角色：怀恩\n城市：上海\n剧院：星空间9号·鲸剧场
+DESCRIPTION:演员：赵奕然\n角色：怀恩\n\n同场演员（本场完整卡司）：\n- 赵奕然（怀恩）  ← 本日历主角\n- 廖城志（霍普）\n- 孙欣业（守塔人）\n\n城市：上海\n剧院：星空间9号·鲸剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:320bde6ea2aaff77aa4c6a2df9c9d1dd79c5195a@saoju
-DTSTAMP:20260201T101737Z
+UID:4726242a25e78d5331583e3332fe8808627b8a63@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250215T193000
 DTEND;TZID=Asia/Shanghai:20250215T213000
-SUMMARY:OZ｜俊一
+SUMMARY:OZ｜晚｜赵奕然｜俊一
 LOCATION:上海 星空间20号·MOriginal Box
-DESCRIPTION:演员：赵奕然\n角色：俊一\n城市：上海\n剧院：星空间20号·MOriginal Box
+DESCRIPTION:演员：赵奕然\n角色：俊一\n\n同场演员（本场完整卡司）：\n- 赵奕然（俊一）  ← 本日历主角\n- 尚一航（铁皮）\n- 蒲铖（MAX）\n- 金谦逊（BUTTON）\n\n城市：上海\n剧院：星空间20号·MOriginal Box
 END:VEVENT
 BEGIN:VEVENT
-UID:57bf54074d836010a3771301dfbebec5ebb7d59a@saoju
-DTSTAMP:20260201T101737Z
+UID:e240e360f102059badcde05eaedb9b0fe8a9bc43@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250219T193000
 DTEND;TZID=Asia/Shanghai:20250219T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 廖城志（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:b4aefcf111a44dbb0eb8b3e1690c32e4623390de@saoju
-DTSTAMP:20260201T101737Z
+UID:7d7e9b61e9d7d5bfcf9be6e830dd5c9c5ae844f0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250221T193000
 DTEND;TZID=Asia/Shanghai:20250221T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:d440a088d5d1965a65f6cbcdc8a30f074e662c7e@saoju
-DTSTAMP:20260201T101737Z
+UID:bf19cb6e7aaf8470f1ed9ec1c7556167b5878151@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250223T150000
 DTEND;TZID=Asia/Shanghai:20250223T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 廖城志（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f57a84deab462cc8d03025d334a8c406506191@saoju
-DTSTAMP:20260201T101737Z
+UID:589b5758d16d8d9694ea6682f044c6d55c31b6ed@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250228T193000
 DTEND;TZID=Asia/Shanghai:20250228T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郭洧江（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ba088f78164b2143c686885f9fdb168f02588242@saoju
-DTSTAMP:20260201T101737Z
+UID:6a060a27074edfe1e8902b8808c8c08e70a328ba@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250301T193000
 DTEND;TZID=Asia/Shanghai:20250301T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郭洧江（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:dffc7ff5b32ea0b2d3bdf759c479b2de34b7e70a@saoju
-DTSTAMP:20260201T101737Z
+UID:308515257f45a96c9e3e5a4810c1bef29a756641@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250315T143000
 DTEND;TZID=Asia/Shanghai:20250315T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 刘恒瑜（梅瑞狄斯）\n- 陈壬权（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:72feb9a2760225359f19cb48888cb3e7b253c288@saoju
-DTSTAMP:20260201T101737Z
+UID:06919c2d174a286d08a51763babb9a9c7b98ea56@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250316T143000
 DTEND;TZID=Asia/Shanghai:20250316T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 周艺聪（梅瑞狄斯）\n- 王瑞（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:be374ce120d543e604842fa706a90efe9335ac57@saoju
-DTSTAMP:20260201T101737Z
+UID:6ae17db8ba1714ba5449c610e02d9063edd9cdfd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250321T193000
 DTEND;TZID=Asia/Shanghai:20250321T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2dc95905acea7b21292bfe67272e8a63e98eb290@saoju
-DTSTAMP:20260201T101737Z
+UID:8f334cfea880be5ee5010a5fabe1697674a1c3cd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250323T143000
 DTEND;TZID=Asia/Shanghai:20250323T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6b1d52485e770a87abad62d26c47a7d374596124@saoju
-DTSTAMP:20260201T101737Z
+UID:86d599bd736f02755c3f1f25ed65e95aa9b2f9bd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250329T193000
 DTEND;TZID=Asia/Shanghai:20250329T213000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜晚｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 徐晨曦（梅瑞狄斯）\n- 王瑞（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:132e8695f5257067cfeffce58d00850713210b38@saoju
-DTSTAMP:20260201T101737Z
+UID:9097853edc8f535cfc59c350e6bbe810f69f573c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250330T143000
 DTEND;TZID=Asia/Shanghai:20250330T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 徐晨曦（梅瑞狄斯）\n- 王博睿（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:2ec19779366ca2ebc3c1714a460053fa7ec02028@saoju
-DTSTAMP:20260201T101737Z
+UID:a278bc584b36eaed2166ed57fd2c51a34ea7b2e3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250404T150000
 DTEND;TZID=Asia/Shanghai:20250404T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:564e3633993bfad422e103b4f237442e22d092a5@saoju
-DTSTAMP:20260201T101737Z
+UID:137330a0657691afb4ccd1b6222aed042b6b7e13@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250405T193000
 DTEND;TZID=Asia/Shanghai:20250405T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 王常凯（卡路）\n- 韩佳旭（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:75ef3fe6d7521915ef7f29446486ecdfa1a721f7@saoju
-DTSTAMP:20260201T101737Z
+UID:ec8819583000904b00e2859364fd69ec8660c99b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250406T150000
 DTEND;TZID=Asia/Shanghai:20250406T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 陈思霖（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:73b73eeb0788ee1a1bcc5a1866b64f07b7532cdb@saoju
-DTSTAMP:20260201T101737Z
+UID:f8982814536c62ebcb8a5030409a262e0a65b6b7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250412T143000
 DTEND;TZID=Asia/Shanghai:20250412T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 周艺聪（梅瑞狄斯）\n- 汤邵文（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:ce2028fc8c1b4cc076ee0fed4978c2aff7aeca2c@saoju
-DTSTAMP:20260201T101737Z
+UID:1f244106cc9966cc38a154bc13ba472e50cd37a3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250418T193000
 DTEND;TZID=Asia/Shanghai:20250418T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 叶锐（卡路）\n- 唐浩瑜（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9cd0773411b7fa70220bd7e901ea6bc9e1da1d38@saoju
-DTSTAMP:20260201T101737Z
+UID:d23379bf600e06b37165ffb8a45158013aaaef9c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250419T143000
 DTEND;TZID=Asia/Shanghai:20250419T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱亚洲（卡路）\n- 李俊杰（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e34ccd84c5697b364027998899f038d080693901@saoju
-DTSTAMP:20260201T101737Z
+UID:388bec30b9c4f28e2d0d8065b98e119d1cf49fdf@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250420T143000
 DTEND;TZID=Asia/Shanghai:20250420T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱亚洲（卡路）\n- 唐浩瑜（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a7f7342a479128944e5709c7b8e847d26df051af@saoju
-DTSTAMP:20260201T101737Z
+UID:b9af6af77ef20657fc25fa94c2099d717aebaae2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250426T143000
 DTEND;TZID=Asia/Shanghai:20250426T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:4bb5b2e552421a9afba381e5955d72ac074a9a4e@saoju
-DTSTAMP:20260201T101737Z
+UID:173d2babd0576fe42737d45431465f9afe690bad@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250501T193000
 DTEND;TZID=Asia/Shanghai:20250501T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 王书琦（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ee11edf645263a72d903282cdac6f353e6af4d56@saoju
-DTSTAMP:20260201T101737Z
+UID:68f4cb816bfa645aa8bc8776407b12ed7c236c1c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250502T193000
 DTEND;TZID=Asia/Shanghai:20250502T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 王书琦（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ead83171f64b1ff66f0fb6da83a53278785d5da0@saoju
-DTSTAMP:20260201T101737Z
+UID:59b45bf1043d3f27b16692126a3b01a1329eef77@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250503T193000
 DTEND;TZID=Asia/Shanghai:20250503T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c336060cfd7cee99f2af8c880cd81fccc2fe4ad7@saoju
-DTSTAMP:20260201T101737Z
+UID:92bfa873239a2b1f61c80a62197b8d21fdd33fe9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250508T193000
 DTEND;TZID=Asia/Shanghai:20250508T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 陈诗（Teddy）\n- 钱蒙楠（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:833a75eac78ab02d43bf9980cbdc2d30b7852f9c@saoju
-DTSTAMP:20260201T101737Z
+UID:405b2bf504f9925c8b1e18c6c20bf746c6486a54@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250510T143000
 DTEND;TZID=Asia/Shanghai:20250510T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 亓振源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:4555f678fb5de0791f8897899c2f4bbf52673297@saoju
-DTSTAMP:20260201T101737Z
+UID:8e59a99df917fc7e1212046a80307b605584f045@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250511T143000
 DTEND;TZID=Asia/Shanghai:20250511T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 吴盛祥（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5802a8c129ea7a0707574113fce3538f4be98ef7@saoju
-DTSTAMP:20260201T101737Z
+UID:b128554048bee49741680d7c0399bf6cad38e4a0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250516T193000
 DTEND;TZID=Asia/Shanghai:20250516T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:87a61e1f0e160fd372dcad1aabd740ec1ba6b5b9@saoju
-DTSTAMP:20260201T101737Z
+UID:ebccf22b0b60b2047785054c4dec3649002ac251@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250518T143000
 DTEND;TZID=Asia/Shanghai:20250518T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 张皓星（海曼）\n- 陈恬（贝拉）\n- 陈彦羽（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5d0c9a5904028aef056193762a98f7d23f89962a@saoju
-DTSTAMP:20260201T101737Z
+UID:a46e91445a4838d180f2aa04fc65eaa5a01ca075@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250524T193000
 DTEND;TZID=Asia/Shanghai:20250524T213000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜晚｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 徐晨曦（梅瑞狄斯）\n- 王瑞（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:44e038295fab39a6baa3bf249ddcebb1e723f173@saoju
-DTSTAMP:20260201T101737Z
+UID:3857b55a8393c8408f080b1d3a37c334896be6e1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250525T143000
 DTEND;TZID=Asia/Shanghai:20250525T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 欧阳乔子（梅瑞狄斯）\n- 刘子赫（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:cb030a08cfd997ad9c6fe223c7182399e7fbc3d7@saoju
-DTSTAMP:20260201T101737Z
+UID:f9ca0cacea4fa7b551cf1c842f60e2b973a8849b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250531T143000
 DTEND;TZID=Asia/Shanghai:20250531T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 卢翰林（海曼）\n- 罗玉玲（贝拉）\n- 林燕婷（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:26f2639e75e445ed0b38d605e39f24f097b83ec1@saoju
-DTSTAMP:20260201T101737Z
+UID:b764582443c34a055d42d845162ebc1c3749a593@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250601T193000
 DTEND;TZID=Asia/Shanghai:20250601T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:7aeb0a2898f0c7e58fd436934a12da07df88f0f6@saoju
-DTSTAMP:20260201T101737Z
+UID:0620ba41a265d4d64ff44b7fa1c290f6e92a3b61@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250602T150000
 DTEND;TZID=Asia/Shanghai:20250602T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:3ac25547546885bf1f4a09d223c31190e48f62b2@saoju
-DTSTAMP:20260201T101737Z
+UID:cfdf8558a79700db9691825d636a4cfe83a0da83@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250604T193000
 DTEND;TZID=Asia/Shanghai:20250604T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 张智伟（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ed8daab3f5138b249e62d08b04f4722d6dbd361a@saoju
-DTSTAMP:20260201T101737Z
+UID:72b7c3c1c6e64909e33611c24de89ad97e1a5ee6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250606T193000
 DTEND;TZID=Asia/Shanghai:20250606T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 卢翰林（海曼）\n- 冯远（贝拉）\n- 马小乔（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:8f70fd10f4d12f13afeaee60ea0bc98f9bbfb0ab@saoju
-DTSTAMP:20260201T101737Z
+UID:b8a339b60916f0e3159e003fb57710e0c9f828cb@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250607T143000
 DTEND;TZID=Asia/Shanghai:20250607T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 欧阳乔子（梅瑞狄斯）\n- 汤邵文（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:d80ae4a0308ae4f5d10fe1d12538d7985e582e59@saoju
-DTSTAMP:20260201T101737Z
+UID:a4711faeb475ece3e4a92cb7183dd57dcfb6cc94@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250608T143000
 DTEND;TZID=Asia/Shanghai:20250608T163000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜午｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 徐晨曦（梅瑞狄斯）\n- 王博睿（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:cd008da333ca5d4abb5bba13bddfbaa8a788bf9b@saoju
-DTSTAMP:20260201T101737Z
+UID:092597af82ebf8fba6eea87cb39eef61112c1571@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250614T143000
 DTEND;TZID=Asia/Shanghai:20250614T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 张皓星（海曼）\n- 陈恬（贝拉）\n- 陈彦羽（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:20f29ae21a90574e32d6b7138193f245aeb6ce0c@saoju
-DTSTAMP:20260201T101737Z
+UID:cdddb131bdf9a30c7556da484768826cc1461257@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250615T193000
 DTEND;TZID=Asia/Shanghai:20250615T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0e05c30dcb679e08c20e0b0e04fd4ecb8e56c38b@saoju
-DTSTAMP:20260201T101737Z
+UID:61b466d6954294383c20e89763524805ae5128fe@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250621T143000
 DTEND;TZID=Asia/Shanghai:20250621T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 叶宇锋（海曼）\n- 邓贤凌（贝拉）\n- 赵雨卉（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a1690800ab2b6f7a2079deb8ca361129192163bf@saoju
-DTSTAMP:20260201T101737Z
+UID:edb53ef5c69b839e0458055511977bfbacbf8c8e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250622T143000
 DTEND;TZID=Asia/Shanghai:20250622T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 王书琦（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:678db9b309a2d4315dcd4e97d72ca86e7a321e0a@saoju
-DTSTAMP:20260201T101737Z
+UID:a7eaca028f63722b8ea3a5af22b706ef69523054@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250628T193000
 DTEND;TZID=Asia/Shanghai:20250628T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 赵钱龙（爱德华）\n- 徐蜜聪（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d6a2295addd9794e374971bd7bffac3b7e2d5c68@saoju
-DTSTAMP:20260201T101737Z
+UID:59b1142ed5e5ee544db19d49e07657aa3b7ff831@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250629T193000
 DTEND;TZID=Asia/Shanghai:20250629T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 徐佳文（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b7ec09a3e4135d2637553b0e9b522bce9824024a@saoju
-DTSTAMP:20260201T101737Z
+UID:cdf9216d4666387dcdf912f2ac38627d42327299@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250704T193000
 DTEND;TZID=Asia/Shanghai:20250704T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 许昌泰（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:561413112b7ef84df4d1eb45048001b2224c13db@saoju
-DTSTAMP:20260201T101737Z
+UID:6980ba94f05a2e96cd7ee738e8a2832008f83548@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250705T193000
 DTEND;TZID=Asia/Shanghai:20250705T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 卢翰林（海曼）\n- 冯远（贝拉）\n- 马小乔（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ae703e3b664ea7406412ea35c2bf3fb6f342a42a@saoju
-DTSTAMP:20260201T101737Z
+UID:771a61be315cf05b5569f1f7e6ee633d9b468960@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250706T143000
 DTEND;TZID=Asia/Shanghai:20250706T163000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 相征（爱德华）\n- 罗玉玲（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b39842b4dfb75d7829711cd806ab33cc870ca0d1@saoju
-DTSTAMP:20260201T101737Z
+UID:69389a0a3666bfe85ecd27718365bda5346ed88f@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250711T193000
 DTEND;TZID=Asia/Shanghai:20250711T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 王书琦（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1b4896e495581cbe8512bfe244c165258ad79ec6@saoju
-DTSTAMP:20260201T101737Z
+UID:90622f8a342ec6f14334d419ef9787664adfac0b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250712T193000
 DTEND;TZID=Asia/Shanghai:20250712T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 王瑞（海曼）\n- 陈恬（贝拉）\n- 曹蘅（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3a74139f11805ff6dc9dd0c1b072205c831134ee@saoju
-DTSTAMP:20260201T101737Z
+UID:a1ba157e43143ae28bb2847e7904c25af65fa490@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250713T143000
 DTEND;TZID=Asia/Shanghai:20250713T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:59ec10a33141e3dd1ced8d7a8c2c11db0c1d04a1@saoju
-DTSTAMP:20260201T101737Z
+UID:d880d423ad84aeee5f4c109067e77f291df3b9e7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250718T193000
 DTEND;TZID=Asia/Shanghai:20250718T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 夏阳（海曼）\n- 王洁璐（贝拉）\n- 马小乔（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c5a7881e569c6a25c9468783e474d000e2189eec@saoju
-DTSTAMP:20260201T101737Z
+UID:fb567ede613743b3bda3c7dab1b88e7bcdc336e4@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250719T193000
 DTEND;TZID=Asia/Shanghai:20250719T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 杨皓晨（爱德华）\n- 潘珏辰（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f3d67036910beaf33e856083469791915f6cbcd0@saoju
-DTSTAMP:20260201T101737Z
+UID:054adad1a9c1b7913ee2ccb0ef53c416e73e4ff2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250720T143000
 DTEND;TZID=Asia/Shanghai:20250720T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 叶宇锋（海曼）\n- 徐蜜聪（贝拉）\n- 洪果（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:31147fc3b405534a2c2aa2b1ab12aa5c6d75b622@saoju
-DTSTAMP:20260201T101737Z
+UID:ebbcc22f6b05fdcf518f0e420872b0cefa9ac9e4@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250725T193000
 DTEND;TZID=Asia/Shanghai:20250725T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:aadda2db7e7b635001eb0c83d4c946b4022882d8@saoju
-DTSTAMP:20260201T101737Z
+UID:22611a64d73eb3732a8e3a71ba224c0cec8bc634@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250726T193000
 DTEND;TZID=Asia/Shanghai:20250726T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:15be960cb3b2b280002fbbc909dd78c81fdb188e@saoju
-DTSTAMP:20260201T101737Z
+UID:31b34afe9595eb34b629f54b8f5e1d269ad10364@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250727T143000
 DTEND;TZID=Asia/Shanghai:20250727T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 相征（海曼）\n- 王洁璐（贝拉）\n- 马小乔（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:bc529199649967d5e33fa85c689e810eb57b3e25@saoju
-DTSTAMP:20260201T101737Z
+UID:139ab9159297af5ad6a01bb2bb18b53f34c3a56b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250727T193000
 DTEND;TZID=Asia/Shanghai:20250727T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 许昌泰（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:acb784eda03c6c379b0c8daae53a20845b80544d@saoju
-DTSTAMP:20260201T101737Z
+UID:0d7ac15ac185d4b15c4bbe8179e181ac7913dbfe@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250801T193000
 DTEND;TZID=Asia/Shanghai:20250801T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 吴盛祥（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0541af4f70759205c10d618a884b6098fdb576bd@saoju
-DTSTAMP:20260201T101737Z
+UID:de7d2a34fdaa2a1495d1cdb5525bb3c0b2956742@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250802T143000
 DTEND;TZID=Asia/Shanghai:20250802T163000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜午｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 吴盛祥（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6a5502632a122d1fb20bbeb7802fd9a2f64a8871@saoju
-DTSTAMP:20260201T101737Z
+UID:9512995b8c8835031a763bb1b142f0bbc6a373cc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250802T193000
 DTEND;TZID=Asia/Shanghai:20250802T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 徐佳文（海曼）\n- 陈恬（贝拉）\n- 蔡馨怡（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:88245d2f6810a307b75a3fdb6390c563ce55cd87@saoju
-DTSTAMP:20260201T101737Z
+UID:2e27bcd1bfd5b4103a49de34e9834f84aa069d32@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250803T193000
 DTEND;TZID=Asia/Shanghai:20250803T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 陈诗（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:94a5a20ac11e26bbe5fc0ecf7075360140cfaeaf@saoju
-DTSTAMP:20260201T101737Z
+UID:df7935db9cf6120907d7e3e835bad0affa61b018@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250808T193000
 DTEND;TZID=Asia/Shanghai:20250808T213000
-SUMMARY:FLAMES火焰｜爱德蒙
+SUMMARY:FLAMES火焰｜晚｜赵奕然｜爱德蒙
 LOCATION:南京 优剧场 YO!THEATER
-DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n城市：南京\n剧院：优剧场 YO!THEATER
+DESCRIPTION:演员：赵奕然\n角色：爱德蒙\n\n同场演员（本场完整卡司）：\n- 赵奕然（爱德蒙）  ← 本日历主角\n- 徐晨曦（梅瑞狄斯）\n- 陈壬权（埃里克）\n\n城市：南京\n剧院：优剧场 YO!THEATER
 END:VEVENT
 BEGIN:VEVENT
-UID:8adac3658a4b779b6095f698e67f05f07fdc36fa@saoju
-DTSTAMP:20260201T101737Z
+UID:5e568a5a9f22b61ca9dbb6f24e5ec8d4bdac21ba@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250809T193000
 DTEND;TZID=Asia/Shanghai:20250809T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 夏阳（海曼）\n- 徐蜜聪（贝拉）\n- 王子浠（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:fb16d8bca5245e18086ff73101680c6819cec609@saoju
-DTSTAMP:20260201T101737Z
+UID:e333365854fe3b6368e3403fb7fd3621eb69f7cc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250810T193000
 DTEND;TZID=Asia/Shanghai:20250810T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 陈诗（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7dbc3429407bf05658df8b4eadea33ef36eea720@saoju
-DTSTAMP:20260201T101737Z
+UID:5573e402a228ff5f05dc5351741d332cbd170c17@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250815T193000
 DTEND;TZID=Asia/Shanghai:20250815T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9780c6d8745c7e9afd381f26ca62e2dc1088d94a@saoju
-DTSTAMP:20260201T101737Z
+UID:21db29c4b4d33b68ebb2ba6c2d7225f8e01209cf@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250816T143000
 DTEND;TZID=Asia/Shanghai:20250816T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 张皓星（海曼）\n- 潘珏辰（贝拉）\n- 林燕婷（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a05efebebb5cfbd1fe53d3b7d6dec08ee29a08f4@saoju
-DTSTAMP:20260201T101737Z
+UID:46409b0989ddc1653a875a59bbce3238cb03564f@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250820T193000
 DTEND;TZID=Asia/Shanghai:20250820T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 沈育奇（爱德华）\n- 黄可（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:aa91a4fb8d03408fa67936402af251f92a4b6a5a@saoju
-DTSTAMP:20260201T101737Z
+UID:8cd1ca3dda3e748e8fce6e428bf871f7570a0580@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250822T193000
 DTEND;TZID=Asia/Shanghai:20250822T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 万钰彬（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:54c93ac3b2d0712a8f59d7ff7d09d0c98b2c387f@saoju
-DTSTAMP:20260201T101737Z
+UID:a64c6fa6cb620954dbee109a2c546b0480645911@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250823T193000
 DTEND;TZID=Asia/Shanghai:20250823T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 孙一城（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:91966f098b403ac4202221b87110260f801bb948@saoju
-DTSTAMP:20260201T101737Z
+UID:953d75e5ee45848a1fe4960c40f972963ae92576@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250824T193000
 DTEND;TZID=Asia/Shanghai:20250824T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 朱微之（爱德华）\n- 潘珏辰（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:41cb3d9ef5a0c1403d9971fb1595ef303eacda62@saoju
-DTSTAMP:20260201T101737Z
+UID:c62995b3b326de1e7c1a6952778e76ee92825b57@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250829T193000
 DTEND;TZID=Asia/Shanghai:20250829T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 陈诗（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7724adb4e3ffa0c0380a995233ac87f662bc1a0b@saoju
-DTSTAMP:20260201T101737Z
+UID:5351bdb12c9ea1626cd0d04a25037e1fc96a3f65@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250830T143000
 DTEND;TZID=Asia/Shanghai:20250830T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 刘朱烨（海曼）\n- 罗玉玲（贝拉）\n- 洪果（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2daeb51ee7d96589161847625a353e512a249c87@saoju
-DTSTAMP:20260201T101737Z
+UID:48d666fef6840e80da1541deaeb14de32f137ffa@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250831T143000
 DTEND;TZID=Asia/Shanghai:20250831T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 赵洪博（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d19e25e3a76a8dec2e729145106f49d198ce513d@saoju
-DTSTAMP:20260201T101737Z
+UID:bf5799068f159bc84f514cb27a2d5509e70113ab@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250903T193000
 DTEND;TZID=Asia/Shanghai:20250903T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 吴盛祥（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ce03b3f335ef267956e5917c4b107f516a741b4b@saoju
-DTSTAMP:20260201T101737Z
+UID:b7c66485467e75d50bb6a7c08d52f66def707080@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250905T193000
 DTEND;TZID=Asia/Shanghai:20250905T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 陈诗（Teddy）\n- 张智伟（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a5dd70fd52045aceff308fb63c0c31deb75cc22a@saoju
-DTSTAMP:20260201T101737Z
+UID:eb09e3a25d06c98849a0b12b4be0499273b307c1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250906T193000
 DTEND;TZID=Asia/Shanghai:20250906T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 廖城志（维塔）\n- 董豫辰（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:bf185309ae6025b7d19916378746675ae877c271@saoju
-DTSTAMP:20260201T101737Z
+UID:e2c6e4a26f3414b3badb01d4347635decd70d9c9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250907T193000
 DTEND;TZID=Asia/Shanghai:20250907T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 王书琦（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:eac4baae59584e5b34567d304660cdc0e166c0e9@saoju
-DTSTAMP:20260201T101737Z
+UID:516889c1c94974b8e2fe4ef77e00c90655acf4ca@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250909T193000
 DTEND;TZID=Asia/Shanghai:20250909T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 孙一城（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7590035280c03f8a312479f41c504cfe48b14433@saoju
-DTSTAMP:20260201T101737Z
+UID:76de02ed1bd4ce7bcd7379f2f629f14f38ef531e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250911T193000
 DTEND;TZID=Asia/Shanghai:20250911T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 卢翰林（卡路）\n- 叶宇锋（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:a6bfa00e3061c26dc9f69e1ad241d92c09d309cc@saoju
-DTSTAMP:20260201T101737Z
+UID:dd8a8208c818964cc800db1a2ada9c88278cbbe3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250912T193000
 DTEND;TZID=Asia/Shanghai:20250912T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 卢翰林（卡路）\n- 叶宇锋（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:12273a616b7ffa9799bc330198385f9100de0a4f@saoju
-DTSTAMP:20260201T101737Z
+UID:c1908c95a2f136028a388cc80aa4271458cf162a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250913T150000
 DTEND;TZID=Asia/Shanghai:20250913T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 卢翰林（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:e1d1b16f652e07d45290649ca4477fb82f9c6b2d@saoju
-DTSTAMP:20260201T101737Z
+UID:410f366d80027bad10020af39add645279618f28@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250914T150000
 DTEND;TZID=Asia/Shanghai:20250914T170000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜赵奕然｜辛吉
 LOCATION:成都 兜兜米新空间
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：成都\n剧院：兜兜米新空间
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 郑金铠（卡路）\n- 樊哲（塞修）\n\n城市：成都\n剧院：兜兜米新空间
 END:VEVENT
 BEGIN:VEVENT
-UID:b2ac1559e14517bd074b3fb3cc190fe2663553f9@saoju
-DTSTAMP:20260201T101737Z
+UID:f6afd144a5015b460028adb6a56f9a78a54bfd82@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250924T193000
 DTEND;TZID=Asia/Shanghai:20250924T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 陈政宇（爱德华）\n- 黄雨蝶（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:37f760c79f7e5920b8f88e415782cf6b1f8065c2@saoju
-DTSTAMP:20260201T101737Z
+UID:c07b55a98b0dbf05177c229dcc2f7e73670e6585@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250925T193000
 DTEND;TZID=Asia/Shanghai:20250925T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 赵洪博（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ba7409b148d7d7b6eb54b4f6985a8a69f2f78cd4@saoju
-DTSTAMP:20260201T101737Z
+UID:8c5294a9420c52add688968a9cd2c8d5235d3c98@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250926T193000
 DTEND;TZID=Asia/Shanghai:20250926T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 陈政宇（海曼）\n- 钱安琪（贝拉）\n- 冯镝霏（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6658867af8cd3bb4df0b689429c9a2061a5de0e8@saoju
-DTSTAMP:20260201T101737Z
+UID:7cf107c2af78e62577fd23116c58e8403eeac36b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250927T193000
 DTEND;TZID=Asia/Shanghai:20250927T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 朱微之（爱德华）\n- 葛洧吟（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0a5ec11d5c0bbb2819b114d6bda93a3268fe26d3@saoju
-DTSTAMP:20260201T101737Z
+UID:fb3c6d3792aee71aae4b6adf5ec631f4288524fa@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20250930T193000
 DTEND;TZID=Asia/Shanghai:20250930T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0252e2c80d4b5f7038c15a75ae86d5122564dfc6@saoju
-DTSTAMP:20260201T101737Z
+UID:10e829ec3c9ecb99604f550a0319b8fe7f6760a8@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251001T193000
 DTEND;TZID=Asia/Shanghai:20251001T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 刘朱烨（海曼）\n- 罗玉玲（贝拉）\n- 王竞琦（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5b19340b558512aa560d0b400c5b99d89722a521@saoju
-DTSTAMP:20260201T101737Z
+UID:3f8ba8ef82c13be66da3bbb6550aa81231623181@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251002T193000
 DTEND;TZID=Asia/Shanghai:20251002T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:76050b9bd47192fdd198d28b612c7dfd928aa89f@saoju
-DTSTAMP:20260201T101737Z
+UID:bbae1bc81b0f4e89835d74aa50c69d1a517cc747@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251003T143000
 DTEND;TZID=Asia/Shanghai:20251003T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 赵洪博（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1f94be85c8589742493db1f2cac682a11b76ea3a@saoju
-DTSTAMP:20260201T101737Z
+UID:b37a111570f06be90cb8ddac29431fb94bf8a8d6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251005T143000
 DTEND;TZID=Asia/Shanghai:20251005T163000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜午｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 万钰彬（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0ea4a6862e7b3160011f3fcb051bad8982b6a26d@saoju
-DTSTAMP:20260201T101737Z
+UID:6ab6e746bd7fdb22475cf3107e5f7e94d70f093a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251006T193000
 DTEND;TZID=Asia/Shanghai:20251006T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 相征（海曼）\n- 钱安琪（贝拉）\n- 洪果（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e35ff6c8fb55ada96f467e908ef31fe2f4d5d6ce@saoju
-DTSTAMP:20260201T101737Z
+UID:d2895b2eb7e9625c541b6bd8d1c812beadb65fa2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251007T143000
 DTEND;TZID=Asia/Shanghai:20251007T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1f977786779835d6f92f12fdd00e219f33f9e50c@saoju
-DTSTAMP:20260201T101737Z
+UID:c5ae6ba357d88584124672c04fb5b0018e3bfeab@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251008T193000
 DTEND;TZID=Asia/Shanghai:20251008T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0608a04eb3c21589bed059a7bc6e4d028610f5ec@saoju
-DTSTAMP:20260201T101737Z
+UID:468c60e126639bf4c3f74f174dc45e965c4b3377@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251010T193000
 DTEND;TZID=Asia/Shanghai:20251010T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3145d0f27d1a2c276cc059a2d5f459e11ab741bd@saoju
-DTSTAMP:20260201T101737Z
+UID:2d5410882f89cd04ea8469971823540bc5018002@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251011T193000
 DTEND;TZID=Asia/Shanghai:20251011T213000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜晚｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 叶锐（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b20813161712d8a48b2c012fee88dca83257c4ff@saoju
-DTSTAMP:20260201T101737Z
+UID:0e382c22d2ba1f90e2b9746013e6110fb79ab6a6@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251012T143000
 DTEND;TZID=Asia/Shanghai:20251012T163000
-SUMMARY:辛吉路的画材店｜辛吉
+SUMMARY:辛吉路的画材店｜午｜赵奕然｜辛吉
 LOCATION:广州 好好有戏小剧场
-DESCRIPTION:演员：赵奕然\n角色：辛吉\n城市：广州\n剧院：好好有戏小剧场
+DESCRIPTION:演员：赵奕然\n角色：辛吉\n\n同场演员（本场完整卡司）：\n- 赵奕然（辛吉）  ← 本日历主角\n- 朱羿达（卡路）\n- 尹智博（塞修）\n\n城市：广州\n剧院：好好有戏小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f5759d8dbedb64404034b74c76a348010c255460@saoju
-DTSTAMP:20260201T101737Z
+UID:4613b603a775fbb7a0dec649988410692f26197e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251016T193000
 DTEND;TZID=Asia/Shanghai:20251016T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 孙一城（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac0cac06cbc42e17887a5c66a94551e67cb8386@saoju
-DTSTAMP:20260201T101737Z
+UID:68cf1512cbdae45fd40ea367aa36932139849dfa@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251017T193000
 DTEND;TZID=Asia/Shanghai:20251017T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 马灵奇（爱德华）\n- 罗玉玲（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f821f585c933e569591ec95050003ebad174d48d@saoju
-DTSTAMP:20260201T101737Z
+UID:532ed33f9ac4f41ece48c820ab0bd1039f9f4c49@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251018T193000
 DTEND;TZID=Asia/Shanghai:20251018T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:dcfcf55ad9882e25fc65ca24ce12ecdb9dbd675f@saoju
-DTSTAMP:20260201T101737Z
+UID:162dcef4dbe548c8f37587ebe4e8f7dfe8011d9c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251019T193000
 DTEND;TZID=Asia/Shanghai:20251019T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 张智伟（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b9a0b16870ae6cc0acf3f1e4b58f0900a4f92ed2@saoju
-DTSTAMP:20260201T101737Z
+UID:f4997d3520feb69f02908d19123fe4e64a5d91c1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251024T193000
 DTEND;TZID=Asia/Shanghai:20251024T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 浦弘斐（爱德华）\n- 徐蜜聪（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f7ad0f1d135eba784d4d6688d7d5ad3f36b75558@saoju
-DTSTAMP:20260201T101737Z
+UID:8b2f0cf8b826bee868732f6237d7c7ab0fe90bf9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251025T143000
 DTEND;TZID=Asia/Shanghai:20251025T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 相征（海曼）\n- 徐蜜聪（贝拉）\n- 王竞琦（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e2c7a16eea0ad9a26ecc15c4e319d149401bb8bb@saoju
-DTSTAMP:20260201T101737Z
+UID:08d190d63371828c7a30526c4abf9519d4912ead@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251026T193000
 DTEND;TZID=Asia/Shanghai:20251026T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2b83d979336d6eb98b06592249f5ec5f2e25d37e@saoju
-DTSTAMP:20260201T101737Z
+UID:284573b0ab8c7341fb88d18b8176bef262ef457a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251031T193000
 DTEND;TZID=Asia/Shanghai:20251031T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 许昌泰（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:7e157248da7ce71e06c57fafdf66347e1ce93e72@saoju
-DTSTAMP:20260201T101737Z
+UID:0a71d7b2e71881c1a25feb4064bd4281d8e35ed3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251101T193000
 DTEND;TZID=Asia/Shanghai:20251101T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 刘朱烨（海曼）\n- 罗玉玲（贝拉）\n- 王竞琦（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:25dfccc521fdce07733f3b6b9d35e12f8ff6b43f@saoju
-DTSTAMP:20260201T101737Z
+UID:214145a581f4f95c321ddfc8d8e656b2f2f4560e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251102T193000
 DTEND;TZID=Asia/Shanghai:20251102T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:29241220028ec4842ebc53e33eb4ed25338a2ffd@saoju
-DTSTAMP:20260201T101737Z
+UID:86d8bc3da6fe7381b8dcaf9136bca742f5fbeb5d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251107T193000
 DTEND;TZID=Asia/Shanghai:20251107T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 卢翰林（程小时）\n- 马小乔（乔苓）\n- 朱佳艳（林贞/陈潇妈）\n- 周波（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:97a30207b9c1b31218290db0a0b35c8678443d88@saoju
-DTSTAMP:20260201T101737Z
+UID:f38d48b93ba8f8a0e1f6b1b8404e5608d6b5639d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251108T193000
 DTEND;TZID=Asia/Shanghai:20251108T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 姜义哲（程小时）\n- 钱安琪（乔苓）\n- 沈恬（林贞/陈潇妈）\n- 李泽熙（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:193a1ada672db25a7541de7b246f76296dbae16e@saoju
-DTSTAMP:20260201T101737Z
+UID:ddd0f486ab86359e94f53c225822acba7abf3455@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251109T193000
 DTEND;TZID=Asia/Shanghai:20251109T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 赵洪博（Teddy）\n- 张智伟（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c9f51a7acc6422d03fc979631e6c3fa166a78060@saoju
-DTSTAMP:20260201T101737Z
+UID:8c49eb45147c06d1b44d0386fc9b9c005ef73489@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251113T193000
 DTEND;TZID=Asia/Shanghai:20251113T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 廖城志（维塔）\n- 江东旭（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:53a3e3faefc61e505ca0eda6b3591d2ace289875@saoju
-DTSTAMP:20260201T101737Z
+UID:a46a5f396aea479ae8ef225690ce2751bf906595@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251114T193000
 DTEND;TZID=Asia/Shanghai:20251114T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:0b22f9f75b6b22c40a12c6d6007ed6489a310b6e@saoju
-DTSTAMP:20260201T101737Z
+UID:fead0e573e0052eff843db0d893d85d5028e2486@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251115T193000
 DTEND;TZID=Asia/Shanghai:20251115T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 陈政宇（爱德华）\n- 黄雨蝶（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a6a764c9f16d3e57a62fa098bc02ec14969ae6b4@saoju
-DTSTAMP:20260201T101737Z
+UID:c8cf16e6c370c3d10d9c24272f0a83554ab22482@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251116T143000
 DTEND;TZID=Asia/Shanghai:20251116T163000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜午｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 李存贤（程小时）\n- 钱安琪（乔苓）\n- 廖婧媛（林贞/陈潇妈）\n- 周波（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e7518b4d28fbcb07747bbe4977c61187efb947a0@saoju
-DTSTAMP:20260201T101737Z
+UID:481fd8e12c75ad388137aea513c5b7a227a55691@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251120T193000
 DTEND;TZID=Asia/Shanghai:20251120T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:武汉 联创艺空间2号·寻境剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：武汉\n剧院：联创艺空间2号·寻境剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 杨磊（韦恩）\n\n城市：武汉\n剧院：联创艺空间2号·寻境剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a6cc25efe2cd824bfbfe6bb62cda277edccb396c@saoju
-DTSTAMP:20260201T101737Z
+UID:adf0e5218c940ab88ed3e791a9be95e688be32b2@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251121T193000
 DTEND;TZID=Asia/Shanghai:20251121T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:武汉 联创艺空间2号·寻境剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：武汉\n剧院：联创艺空间2号·寻境剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 杨磊（韦恩）\n\n城市：武汉\n剧院：联创艺空间2号·寻境剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:07b143921b5a060d7a16a610385967ac7194165d@saoju
-DTSTAMP:20260201T101737Z
+UID:d772ea9434ef69fc472687d551540b2651e463bc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251122T193000
 DTEND;TZID=Asia/Shanghai:20251122T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:武汉 联创艺空间1号·心境剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：武汉\n剧院：联创艺空间1号·心境剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 陈政宇（爱德华）\n- 黄雨蝶（玛莎）\n\n城市：武汉\n剧院：联创艺空间1号·心境剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1c1409fdd93e41c3ef7bc684f7a79ce1e311d15b@saoju
-DTSTAMP:20260201T101737Z
+UID:55417150b58395267ef5f9c0cfc0b5549cdfbb27@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251123T150000
 DTEND;TZID=Asia/Shanghai:20251123T170000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜赵奕然｜乔纳森
 LOCATION:武汉 联创艺空间1号·心境剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：武汉\n剧院：联创艺空间1号·心境剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 陈政宇（爱德华）\n- 黄雨蝶（玛莎）\n\n城市：武汉\n剧院：联创艺空间1号·心境剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:64bc7c361af71062f56433eb0ea7e0e2404bdaa0@saoju
-DTSTAMP:20260201T101737Z
+UID:8defea90bdc9ce1276dc0873fd719c6a32aec36e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251128T193000
 DTEND;TZID=Asia/Shanghai:20251128T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 郭之阳（维塔）\n- 赵钱龙（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:222c3d79f658e5f35b7ad01ab42c90a50ba544fd@saoju
-DTSTAMP:20260201T101737Z
+UID:ac66ec896d00769881f200cad5d921c6c7ddbc47@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251129T193000
 DTEND;TZID=Asia/Shanghai:20251129T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 吴盛祥（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:847eacac92b3629784f858a48c244aa16dbf3a3b@saoju
-DTSTAMP:20260201T101737Z
+UID:ef33f9d8b11ec2c3d225dc1c29abd9340cf91f35@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251130T143000
 DTEND;TZID=Asia/Shanghai:20251130T163000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜午｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 钱蒙楠（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c9d210822a5e3302588313320c4c54f6cb0bb284@saoju
-DTSTAMP:20260201T101737Z
+UID:de42b91ef428c8878d6b3e9775306120e9c8e1ef@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251201T193000
 DTEND;TZID=Asia/Shanghai:20251201T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 舒荣波（程小时）\n- 马小乔（乔苓）\n- 沈恬（林贞/陈潇妈）\n- 宋元明（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b5dbf97b201b501dc7bfe705d31dce8a27f4a1ec@saoju
-DTSTAMP:20260201T101737Z
+UID:d07cab4034a7c4393688204fba0c0c2673e5b760@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251206T193000
 DTEND;TZID=Asia/Shanghai:20251206T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 万钰彬（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:dafbf6b282ae887e408ac468a59c408a9e0648dd@saoju
-DTSTAMP:20260201T101737Z
+UID:fa771b76439031ee9ff5d4cf3d1e25af0b859af7@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251211T193000
 DTEND;TZID=Asia/Shanghai:20251211T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 徐佳文（Teddy）\n- 张智伟（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:2ab22059d6aadb35ca58f8002d61bc5877d0bbd6@saoju
-DTSTAMP:20260201T101737Z
+UID:dd2b5371d660c1876477bd4547b16fa67e64897d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251212T193000
 DTEND;TZID=Asia/Shanghai:20251212T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 杨磊（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ece9daeb74a9fa7c4c8533619c34b780fa5eb820@saoju
-DTSTAMP:20260201T101737Z
+UID:967f66f00ed46c13654bfa9db99744c5fc53ad04@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251213T143000
 DTEND;TZID=Asia/Shanghai:20251213T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 相征（海曼）\n- 冯远（贝拉）\n- 马小乔（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1b5058e6663bec34a4c5f7e5431e226d66a72904@saoju
-DTSTAMP:20260201T101737Z
+UID:68fce9ef51642e0aa9e4fec94faf301917baa544@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251213T193000
 DTEND;TZID=Asia/Shanghai:20251213T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b7f17fbdfd253452751b29fdc1b947a208a7abc9@saoju
-DTSTAMP:20260201T101737Z
+UID:0935633c62f9be95078d00d4dc18787ae02152b1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251214T143000
 DTEND;TZID=Asia/Shanghai:20251214T163000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 顾易（爱德华）\n- 潘珏辰（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:54313135efcd2c4b4b4da43a0120059ee4ea27ba@saoju
-DTSTAMP:20260201T101737Z
+UID:3118a0ab2a86fb915ab88f6ce776d76b32876cfc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251217T193000
 DTEND;TZID=Asia/Shanghai:20251217T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 许昌泰（Teddy）\n- 钱蒙楠（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:932b0a7aa25ab0b7d771a6f4230503116a785530@saoju
-DTSTAMP:20260201T101737Z
+UID:5aee7d621e8c62de36426fb51ccd41b5901af627@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251219T193000
 DTEND;TZID=Asia/Shanghai:20251219T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 刘朱烨（海曼）\n- 徐蜜聪（贝拉）\n- 洪果（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c09a5095d89ea1dff4655cc57911d72019367c29@saoju
-DTSTAMP:20260201T101737Z
+UID:4377cd19dc9876ae3cdb1c7e7a80304b48f70740@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251220T193000
 DTEND;TZID=Asia/Shanghai:20251220T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 万钰彬（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b4817802a41428af292bc7bf6eabb8b92b0c0f21@saoju
-DTSTAMP:20260201T101737Z
+UID:bdfc4b20d33546433f3686409c6627cb331990d0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251227T193000
 DTEND;TZID=Asia/Shanghai:20251227T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:028c61c2263690040f017d8590c0b921318bf507@saoju
-DTSTAMP:20260201T101737Z
+UID:4858a1876757a41b19be68c3e6d8acdabcafaf04@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251230T193000
 DTEND;TZID=Asia/Shanghai:20251230T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 李磊（维塔）\n- 赵洪博（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:fe0c2ab356cb29606d669d0e40651d40f369b784@saoju
-DTSTAMP:20260201T101737Z
+UID:3ad979361cbfe7fa3c84b65a3bcc326f051508fd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20251231T193000
 DTEND;TZID=Asia/Shanghai:20251231T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 朱亚洲（海曼）\n- 徐蜜聪（贝拉）\n- 王竞琦（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:f90437fe2aee1b815df3741651123f55b4130d9b@saoju
-DTSTAMP:20260201T101737Z
+UID:649e943d6571318eb847ddc412538470ddc49464@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260101T143000
 DTEND;TZID=Asia/Shanghai:20260101T163000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜午｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6cc8352ddea81096316bc453726cd51b06c82ec8@saoju
-DTSTAMP:20260201T101737Z
+UID:2ac7104a635310e4081962a8168dbbd0789fcb1f@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260101T193000
 DTEND;TZID=Asia/Shanghai:20260101T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 滕春鹏（程小时）\n- 左一平（乔苓）\n- 廖婧媛（林贞/陈潇妈）\n- 李泽熙（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:165f516fd631e9468db4813aee39e0a256b71096@saoju
-DTSTAMP:20260201T101737Z
+UID:c84e25c912a504dfcf95322a0b0e5bbc9c06d7bd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260103T143000
 DTEND;TZID=Asia/Shanghai:20260103T163000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 朱微之（爱德华）\n- 潘珏辰（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:b9b80804258457e61471da1de928d5fbe3d01ff1@saoju
-DTSTAMP:20260201T101737Z
+UID:6bd49c9054e2ef0eab142c14a2b26d6688f4639c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260109T193000
 DTEND;TZID=Asia/Shanghai:20260109T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 顾易（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:6f3b32f3bcfb33b579464230f0020f36c537a45c@saoju
-DTSTAMP:20260201T101737Z
+UID:6f8f01f5cbab14c0bdcf024c54153d7ca2e1946a@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260110T193000
 DTEND;TZID=Asia/Shanghai:20260110T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 赵钱龙（爱德华）\n- 潘珏辰（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:dfb246744ccb05d247d34c14bd862a74fc9882b4@saoju
-DTSTAMP:20260201T101737Z
+UID:20a776216ef6fe81023348ec93ac376c94bdd5bd@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260111T193000
 DTEND;TZID=Asia/Shanghai:20260111T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 姜义哲（程小时）\n- 强东玥（乔苓）\n- 朱佳艳（林贞/陈潇妈）\n- 许放星（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:917d8d3ff07019644c0466189b828eba95504d7a@saoju
-DTSTAMP:20260201T101737Z
+UID:dfe7200835fc9f283b13c99bd1802771112e21b8@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260112T193000
 DTEND;TZID=Asia/Shanghai:20260112T213000
-SUMMARY:时光代理人｜陆光
+SUMMARY:时光代理人｜晚｜赵奕然｜陆光
 LOCATION:上海 时光剧场
-DESCRIPTION:演员：赵奕然\n角色：陆光\n城市：上海\n剧院：时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n\n同场演员（本场完整卡司）：\n- 赵奕然（陆光）  ← 本日历主角\n- 卢翰林（程小时）\n- 钱安琪（乔苓）\n- 于梦滢（林贞/陈潇妈）\n- 张嘉豪（陈潇/陆鸿斌）\n\n城市：上海\n剧院：时光剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ea2f329ed98b5a32bb10f534958431d9db3c6c93@saoju
-DTSTAMP:20260201T101737Z
+UID:b544b63f292577ba9ca0e970e223119d24d55a8d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260114T193000
 DTEND;TZID=Asia/Shanghai:20260114T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:4b6d31296db5981f53901960acedad9de47fd905@saoju
-DTSTAMP:20260201T101737Z
+UID:14563eeead4158b84c80ed880e78e4d3f3f69554@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260117T140000
 DTEND;TZID=Asia/Shanghai:20260117T160000
-SUMMARY:奥尔菲斯｜奥尔菲斯
+SUMMARY:奥尔菲斯｜午｜赵奕然｜奥尔菲斯
 LOCATION:上海 上海共舞台
-DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n城市：上海\n剧院：上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（奥尔菲斯）  ← 本日历主角\n- 卢翰林（托马斯）\n- 庞东轩（比尔）\n- 黄雨蝶（赛琳娜）\n- 黎玥杉（欧莉）\n\n城市：上海\n剧院：上海共舞台
 END:VEVENT
 BEGIN:VEVENT
-UID:ecbc273c938e5121c77028e53998d5d3bc5f0ecf@saoju
-DTSTAMP:20260201T101737Z
+UID:b5e131411291bd34a2d366e3a0f061c9628b3ada@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260120T193000
 DTEND;TZID=Asia/Shanghai:20260120T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 吴盛祥（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3a9d1dc53345f064f3ccabcae80ab71ae57c584d@saoju
-DTSTAMP:20260201T101737Z
+UID:b37fdd2d9b45bdaf220bdfff2839e77ed82fb14d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260121T193000
 DTEND;TZID=Asia/Shanghai:20260121T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:c0fca86e1d4f7e17c4f4d7906d545c9c540241e2@saoju
-DTSTAMP:20260201T101737Z
+UID:1c4e61ae3c54ae4bb656a2d7c668df12069d3f9e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260123T193000
 DTEND;TZID=Asia/Shanghai:20260123T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 朱亚洲（海曼）\n- 钱安琪（贝拉）\n- 冯镝霏（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:82384df5ea96fb9537b24289e80fc874983d56e8@saoju
-DTSTAMP:20260201T101737Z
+UID:80221bd36a84fa04d1d26b8966a7b4561586e715@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260125T140000
 DTEND;TZID=Asia/Shanghai:20260125T160000
-SUMMARY:奥尔菲斯｜奥尔菲斯
+SUMMARY:奥尔菲斯｜午｜赵奕然｜奥尔菲斯
 LOCATION:上海 上海共舞台
-DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n城市：上海\n剧院：上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（奥尔菲斯）  ← 本日历主角\n- 徐佳文（托马斯）\n- 庞东轩（比尔）\n- 黄雨蝶（赛琳娜）\n- 盛嘉怡（欧莉）\n\n城市：上海\n剧院：上海共舞台
 END:VEVENT
 BEGIN:VEVENT
-UID:52eae2a5e472c076464cfb3741652b98bd0e7437@saoju
-DTSTAMP:20260201T101737Z
+UID:cd75e7d2b885ee13979cc160ab857e0cc0c8dccb@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260129T193000
 DTEND;TZID=Asia/Shanghai:20260129T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 郭之阳（维塔）\n- 赵钱龙（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:791dcb7a4ac636e92f3d087c929f7527f0c997fc@saoju
-DTSTAMP:20260201T101737Z
+UID:f17f32f9e384f0415672c70bf06d254744a9ec17@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260131T140000
 DTEND;TZID=Asia/Shanghai:20260131T160000
-SUMMARY:奥尔菲斯｜奥尔菲斯
+SUMMARY:奥尔菲斯｜午｜赵奕然｜奥尔菲斯
 LOCATION:上海 上海共舞台
-DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n城市：上海\n剧院：上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（奥尔菲斯）  ← 本日历主角\n- 刘朱烨（托马斯）\n- 吴志军（比尔）\n- 吴嘉怡（赛琳娜）\n- 黄玫（欧莉）\n\n城市：上海\n剧院：上海共舞台
 END:VEVENT
 BEGIN:VEVENT
-UID:d6f4e682eb1d9abb76e54ce908e49a5b1ec056f3@saoju
-DTSTAMP:20260201T101737Z
+UID:2cbc5aaa0f919d803bd5f392447c8b27ddcb19e0@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260201T193000
 DTEND;TZID=Asia/Shanghai:20260201T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 吴盛祥（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a1883f26de474bcc5f11278ef3f6f5518b0bd499@saoju
-DTSTAMP:20260201T101737Z
+UID:b411a8a6efc93870fbc4229b36b135fb99391183@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260203T193000
 DTEND;TZID=Asia/Shanghai:20260203T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 徐佳文（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:309af5dbe532708fc77e2064b2fd39f02389a5e7@saoju
-DTSTAMP:20260201T101737Z
+UID:b9e56fb16927ca0427669c80c49687968a93c00e@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260207T193000
 DTEND;TZID=Asia/Shanghai:20260207T213000
-SUMMARY:奥尔菲斯｜奥尔菲斯
+SUMMARY:奥尔菲斯｜晚｜赵奕然｜奥尔菲斯
 LOCATION:上海 上海共舞台
-DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n城市：上海\n剧院：上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（奥尔菲斯）  ← 本日历主角\n- 卢翰林（托马斯）\n- 庞东轩（比尔）\n- 宋苞涵（赛琳娜）\n- 黄玫（欧莉）\n\n城市：上海\n剧院：上海共舞台
 END:VEVENT
 BEGIN:VEVENT
-UID:15394f0c2c2b76e6d7e887744bb5e919ca741241@saoju
-DTSTAMP:20260201T101737Z
+UID:255854b9a49cdfe524361b03bb9f5698e1193005@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260307T193000
 DTEND;TZID=Asia/Shanghai:20260307T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 郭之阳（爱德华）\n- 洪果（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ba27fad2d8b146120183513ac165f94e4d9c1834@saoju
-DTSTAMP:20260201T101737Z
+UID:9984c4f0360fc72b54ceb1b35f87ce02af8e8f47@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260308T193000
 DTEND;TZID=Asia/Shanghai:20260308T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:1261c21cf11252eb61e8159d597a6ce781eed3bf@saoju
-DTSTAMP:20260201T101737Z
+UID:b00eae3f9d52c326e8011dffb0fbed0f267d2a39@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260312T193000
 DTEND;TZID=Asia/Shanghai:20260312T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d68d98fdd74a8aa7d756048d0f77329a79496bd8@saoju
-DTSTAMP:20260201T101737Z
+UID:4b8e1bbe7a70716db31f448d1faf9346501240f9@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260313T193000
 DTEND;TZID=Asia/Shanghai:20260313T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 孙一城（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1488343e7d035ea384ad28eb750a4d90d97610@saoju
-DTSTAMP:20260201T101737Z
+UID:ea55236e8670ad0ce5a0b4036814c4d7d0c830e3@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260314T143000
 DTEND;TZID=Asia/Shanghai:20260314T163000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 黄思惟（海曼）\n- 钟楚依（贝拉）\n- 孙乐仟（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:110f46b7a747cb3590e6a918ed02eee544cc4870@saoju
-DTSTAMP:20260201T101737Z
+UID:85ea934a757bdcc2ab4ab5b65456bfd119b03af1@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260315T143000
 DTEND;TZID=Asia/Shanghai:20260315T163000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 浦弘斐（爱德华）\n- 徐蜜聪（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:727303b17d883b5fd8088ee09656d00108dc747f@saoju
-DTSTAMP:20260201T101737Z
+UID:9c90c670aaa08960e4b88f944ed43d4e157058ed@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260318T193000
 DTEND;TZID=Asia/Shanghai:20260318T213000
-SUMMARY:亡灵之旅：冥犬与少年｜阿努比斯
+SUMMARY:亡灵之旅：冥犬与少年｜晚｜赵奕然｜阿努比斯
 LOCATION:上海 星空间55号·五十五剧场
-DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n城市：上海\n剧院：星空间55号·五十五剧场
+DESCRIPTION:演员：赵奕然\n角色：阿努比斯\n\n同场演员（本场完整卡司）：\n- 赵奕然（阿努比斯）  ← 本日历主角\n- 廖城志（维塔）\n- 赵钱龙（荷鲁斯）\n\n城市：上海\n剧院：星空间55号·五十五剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:ecc0646c704dedd244b7cd4c0ab73f7a2f9d4347@saoju
-DTSTAMP:20260201T101737Z
+UID:d99c31a1fac8034194562455d7fdf522ed0031cc@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260320T193000
 DTEND;TZID=Asia/Shanghai:20260320T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 吴盛祥（Teddy）\n- 王天择（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:e879ae318903773d0522a37759440d77fe0f5f75@saoju
-DTSTAMP:20260201T101737Z
+UID:2af54d9f423e0ed8b89515e8f3305aeafcc8ab32@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260321T193000
 DTEND;TZID=Asia/Shanghai:20260321T213000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜晚｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 刘朱烨（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:718448ff3aa5055107354a1bcda30388020935ed@saoju
-DTSTAMP:20260201T101737Z
+UID:0d39f47a885ea75a71c28d9bfba94117a532f412@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260326T193000
 DTEND;TZID=Asia/Shanghai:20260326T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 蓝浩（Teddy）\n- 于世源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:9c20cbc4ea5bbfc17b42b5d26bc2e9ef988508d1@saoju
-DTSTAMP:20260201T101737Z
+UID:66891f3aef1b7b65d4db3aa0dbbd5451ddc0301d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260327T193000
 DTEND;TZID=Asia/Shanghai:20260327T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 王瑞（海曼）\n- 邓贤凌（贝拉）\n- 赵雨卉（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d8182388ea0e80fe6eaf5745890dcc8c50d3ead8@saoju
-DTSTAMP:20260201T101737Z
+UID:071636b9759f4398f5dd58efa157e5b95f763bea@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260329T193000
 DTEND;TZID=Asia/Shanghai:20260329T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 吴盛祥（Teddy）\n- 亓振源（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:a7ff17a5ffd5b25333005b29d43a5d9a4d028a73@saoju
-DTSTAMP:20260201T101737Z
+UID:20e689a0ed891cc6d50f24426ba851daf016ec6c@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260403T193000
 DTEND;TZID=Asia/Shanghai:20260403T213000
-SUMMARY:嗜血博士｜乔纳森
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
 LOCATION:上海 星空间1023号·涵金小剧场
-DESCRIPTION:演员：赵奕然\n角色：乔纳森\n城市：上海\n剧院：星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n\n同场演员（本场完整卡司）：\n- 赵奕然（乔纳森）  ← 本日历主角\n- 顾易（爱德华）\n- 黄可（玛莎）\n\n城市：上海\n剧院：星空间1023号·涵金小剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:d42d2ae733a0684e0e44fe54f80d59309a9a45f5@saoju
-DTSTAMP:20260201T101737Z
+UID:e9c549ab620ae4f4c22252c60d74922a942eea0d@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260404T193000
 DTEND;TZID=Asia/Shanghai:20260404T213000
-SUMMARY:幽灵｜Alex
+SUMMARY:幽灵｜晚｜赵奕然｜Alex
 LOCATION:上海 星空间168号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：Alex\n城市：上海\n剧院：星空间168号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：Alex\n\n同场演员（本场完整卡司）：\n- 赵奕然（Alex）  ← 本日历主角\n- 卢翰林（Teddy）\n- 庞东轩（David）\n\n城市：上海\n剧院：星空间168号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:84481b34c7023cd3dd74f562b983cb92d98284d8@saoju
-DTSTAMP:20260201T101737Z
+UID:2cb84b855ef53743cfc3d48cffac6a5cf072ce1b@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260405T143000
 DTEND;TZID=Asia/Shanghai:20260405T163000
-SUMMARY:怪物｜里奥
+SUMMARY:怪物｜午｜赵奕然｜里奥
 LOCATION:上海 星空间18号·谜剧场
-DESCRIPTION:演员：赵奕然\n角色：里奥\n城市：上海\n剧院：星空间18号·谜剧场
+DESCRIPTION:演员：赵奕然\n角色：里奥\n\n同场演员（本场完整卡司）：\n- 赵奕然（里奥）  ← 本日历主角\n- 吴盛祥（韦恩）\n\n城市：上海\n剧院：星空间18号·谜剧场
 END:VEVENT
 BEGIN:VEVENT
-UID:3f138d897cfc9754086911a5829a8debb3467dae@saoju
-DTSTAMP:20260201T101737Z
+UID:93b4afec37dc0aad672468bddb4849fb486a71e8@saoju
+DTSTAMP:20260202T025455Z
 DTSTART;TZID=Asia/Shanghai:20260405T193000
 DTEND;TZID=Asia/Shanghai:20260405T213000
-SUMMARY:末日迷途｜威廉
+SUMMARY:末日迷途｜晚｜赵奕然｜威廉
 LOCATION:上海 星空间8808号·涵金剧场
-DESCRIPTION:演员：赵奕然\n角色：威廉\n城市：上海\n剧院：星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n\n同场演员（本场完整卡司）：\n- 赵奕然（威廉）  ← 本日历主角\n- 相征（海曼）\n- 钱安琪（贝拉）\n- 洪果（阿曼达）\n\n城市：上海\n剧院：星空间8808号·涵金剧场
 END:VEVENT
 END:VCALENDAR
