@@ -12,7 +12,8 @@ ARTISTS = {
     "1779": "庞东轩",
 }
 
-START_DATE = dt.date(2018, 1, 1)
+# ===== 增量更新范围 =====
+LOOKBACK_DAYS = 2
 FUTURE_DAYS = 365
 
 DURATION_HOURS = 2
@@ -22,35 +23,37 @@ OUT = Path("docs")
 OUT.mkdir(exist_ok=True)
 
 
-def make_uid(*parts):
-    raw = "|".join(map(str, parts)).encode("utf-8")
+def make_uid(*parts: str) -> str:
+    raw = "|".join([str(p) for p in parts]).encode("utf-8")
     return hashlib.sha1(raw).hexdigest() + "@saoju"
 
 
-def escape_ics(s):
-    if not s:
+def escape_ics(s: str) -> str:
+    if s is None:
         return ""
     return (
         str(s)
         .replace("\\", "\\\\")
         .replace(";", "\\;")
         .replace(",", "\\,")
+        .replace("\r\n", "\n")
+        .replace("\r", "\n")
         .replace("\n", "\\n")
     )
 
 
-def fetch_day(date_str):
+def fetch_day(date_str: str):
     r = requests.get(BASE, params={"date": date_str}, timeout=TIMEOUT)
     r.raise_for_status()
     return r.json().get("show_list", []) or []
 
 
-def to_dt(d, t):
+def to_dt_local(d: dt.date, t: str) -> dt.datetime:
     h, m = t.split(":")
     return dt.datetime(d.year, d.month, d.day, int(h), int(m), tzinfo=TZ)
 
 
-def session_label(t):
+def session_label(t: str) -> str:
     if t in ("14:00", "14:30"):
         return "午"
     if t in ("19:00", "19:30"):
@@ -58,9 +61,9 @@ def session_label(t):
     return ""
 
 
-def normalize_cast(show):
+def normalize_cast(show: dict):
     out = []
-    for c in show.get("cast", []):
+    for c in show.get("cast", []) or []:
         a = (c.get("artist") or "").strip()
         r = (c.get("role") or "").strip()
         if a:
@@ -68,10 +71,10 @@ def normalize_cast(show):
     return out
 
 
-def build_desc(artist, role, city, theatre, cast_pairs):
+def build_desc(main_artist: str, main_role: str, city: str, theatre: str, cast_pairs: list):
     lines = [
-        f"演员：{artist}",
-        f"角色：{role}" if role else "",
+        f"演员：{main_artist}",
+        f"角色：{main_role}" if main_role else "",
         "",
         "同场演员："
     ]
@@ -87,24 +90,24 @@ def build_desc(artist, role, city, theatre, cast_pairs):
     return "\n".join([x for x in lines if x])
 
 
-def build_event(artist, role, d, show):
-    start = to_dt(d, show["time"])
+def build_event(artist: str, role: str, d: dt.date, show: dict):
+    start = to_dt_local(d, show["time"])
     end = start + dt.timedelta(hours=DURATION_HOURS)
 
-    musical = show.get("musical", "")
-    city = show.get("city", "")
-    theatre = show.get("theatre", "")
-    time_str = show.get("time", "")
+    musical = (show.get("musical") or "").strip()
+    city = (show.get("city") or "").strip()
+    theatre = (show.get("theatre") or "").strip()
+    time_str = (show.get("time") or "").strip()
 
     label = session_label(time_str)
 
+    # 标题：剧名｜午/晚｜演员名｜角色名
     parts = [musical]
     if label:
         parts.append(label)
     parts.append(artist)
     if role:
         parts.append(role)
-
     summary = "｜".join(parts)
 
     cast_pairs = normalize_cast(show)
@@ -118,76 +121,114 @@ def build_event(artist, role, d, show):
         "start": start,
         "end": end,
         "summary": summary,
-        "location": f"{city} {theatre}",
+        "location": f"{city} {theatre}".strip(),
         "desc": build_desc(artist, role, city, theatre, cast_pairs),
     }
 
 
-def write_ics(path, events):
-    now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+def parse_existing_ics(path: Path):
+    """
+    读取旧 ICS，提取已有 VEVENT 原文和 UID，避免重复写入。
+    这样历史事件会保留，只补充最近/未来新增内容。
+    """
+    if not path.exists():
+        return [], set()
 
+    text = path.read_text(encoding="utf-8")
+    blocks = text.split("BEGIN:VEVENT")
+    if len(blocks) == 1:
+        return [], set()
+
+    events = []
+    seen_uids = set()
+
+    for block in blocks[1:]:
+        event_text = "BEGIN:VEVENT" + block
+        if "UID:" not in event_text:
+            continue
+        uid = event_text.split("UID:", 1)[1].splitlines()[0].strip()
+        if uid:
+            seen_uids.add(uid)
+            events.append(event_text.strip())
+
+    return events, seen_uids
+
+
+def build_event_block(ev: dict) -> str:
+    now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+    return "\n".join([
+        "BEGIN:VEVENT",
+        f"UID:{ev['uid']}",
+        f"DTSTAMP:{now}",
+        f"DTSTART;TZID=Asia/Shanghai:{ev['start'].strftime('%Y%m%dT%H%M%S')}",
+        f"DTEND;TZID=Asia/Shanghai:{ev['end'].strftime('%Y%m%dT%H%M%S')}",
+        f"SUMMARY:{escape_ics(ev['summary'])}",
+        f"LOCATION:{escape_ics(ev['location'])}",
+        f"DESCRIPTION:{escape_ics(ev['desc'])}",
+        "END:VEVENT"
+    ])
+
+
+def write_ics(path: Path, event_blocks: list):
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-TIMEZONE:Asia/Shanghai",
     ]
 
-    for e in events:
-        lines += [
-            "BEGIN:VEVENT",
-            f"UID:{e['uid']}",
-            f"DTSTAMP:{now}",
-            f"DTSTART;TZID=Asia/Shanghai:{e['start'].strftime('%Y%m%dT%H%M%S')}",
-            f"DTEND;TZID=Asia/Shanghai:{e['end'].strftime('%Y%m%dT%H%M%S')}",
-            f"SUMMARY:{escape_ics(e['summary'])}",
-            f"LOCATION:{escape_ics(e['location'])}",
-            f"DESCRIPTION:{escape_ics(e['desc'])}",
-            "END:VEVENT",
-        ]
-
+    lines.extend(event_blocks)
     lines.append("END:VCALENDAR")
+
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
 def main():
     today = dt.date.today()
+    start_date = today - dt.timedelta(days=LOOKBACK_DAYS)
     end_date = today + dt.timedelta(days=FUTURE_DAYS)
 
-    events_by_artist = {aid: [] for aid in ARTISTS}
-    seen = {aid: set() for aid in ARTISTS}
+    total_days = (end_date - start_date).days + 1
 
-    total = (end_date - START_DATE).days + 1
+    for artist_id, artist_name in ARTISTS.items():
+        path = OUT / f"artist_{artist_id}.ics"
 
-    for i in range(total):
-        d = START_DATE + dt.timedelta(days=i)
+        existing_blocks, seen_uids = parse_existing_ics(path)
+        new_blocks = []
 
-        if i % 50 == 0:
-            print(f"[{i}/{total}] {d}")
+        print(f"开始更新：{artist_name}")
 
-        try:
-            shows = fetch_day(d.isoformat())
-        except:
-            continue
+        for i in range(total_days):
+            d = start_date + dt.timedelta(days=i)
 
-        for show in shows:
-            for c in show.get("cast", []):
-                artist_in_show = c.get("artist")
-                role = c.get("role")
+            if i % 50 == 0 or i == total_days - 1:
+                print(f"{artist_name} [{i+1}/{total_days}] {d.isoformat()}")
 
-                for aid, name in ARTISTS.items():
-                    if artist_in_show == name:
-                        ev = build_event(name, role, d, show)
+            try:
+                shows = fetch_day(d.isoformat())
+            except Exception as e:
+                print(f"[ERR DAY] {artist_name} {d.isoformat()} {e}")
+                continue
 
-                        if ev["uid"] in seen[aid]:
+            for show in shows:
+                for c in show.get("cast", []) or []:
+                    if (c.get("artist") or "").strip() == artist_name:
+                        role = (c.get("role") or "").strip()
+                        ev = build_event(artist_name, role, d, show)
+
+                        if ev["uid"] in seen_uids:
                             continue
 
-                        seen[aid].add(ev["uid"])
-                        events_by_artist[aid].append(ev)
+                        seen_uids.add(ev["uid"])
+                        new_blocks.append(build_event_block(ev))
 
-    for aid, name in ARTISTS.items():
-        evs = sorted(events_by_artist[aid], key=lambda x: x["start"])
-        write_ics(OUT / f"artist_{aid}.ics", evs)
-        print(f"{name} 共 {len(evs)} 场")
+        print(f"{artist_name} 新增 {len(new_blocks)} 场")
+
+        all_blocks = existing_blocks + new_blocks
+        write_ics(path, all_blocks)
+
+        print(f"[OK] {artist_name} -> {path}")
 
 
 if __name__ == "__main__":
