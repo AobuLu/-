@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:691c4324094db3ccf854cfab8deacb001f13def8@saoju
 DTSTAMP:20260326T082957Z
@@ -892,4 +894,5 @@ SUMMARY:秘密花园｜晚｜庞东轩｜比尔&迪肯
 LOCATION:上海 茉莉花剧场
 DESCRIPTION:演员：庞东轩\n角色：比尔&迪肯\n同场演员：\n- 陈玉婷（艾米&玛丽）\n- 覃一凡（黛娜&玛莎）\n- 赵钱龙（查理&科林）\n- 庞东轩（比尔&迪肯）\n城市：上海\n剧院：茉莉花剧场
 END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
