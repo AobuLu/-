@@ -12,9 +12,8 @@ ARTISTS = {
     "1779": "庞东轩",
 }
 
-# ===== 增量策略 =====
-LOOKBACK_DAYS = 2        # 向前补 2 天
-FUTURE_DAYS = 365       # 向后一年
+START_DATE = dt.date(2018, 1, 1)
+FUTURE_DAYS = 365
 
 DURATION_HOURS = 2
 TIMEOUT = 20
@@ -23,29 +22,30 @@ OUT = Path("docs")
 OUT.mkdir(exist_ok=True)
 
 
-def make_uid(*parts: str) -> str:
-    raw = "|".join([str(p) for p in parts]).encode("utf-8")
+def make_uid(*parts):
+    raw = "|".join(map(str, parts)).encode("utf-8")
     return hashlib.sha1(raw).hexdigest() + "@saoju"
 
 
-def escape_ics(s: str) -> str:
-    if s is None:
+def escape_ics(s):
+    if not s:
         return ""
     return (
-        str(s).replace("\\", "\\\\")
+        str(s)
+        .replace("\\", "\\\\")
         .replace(";", "\\;")
         .replace(",", "\\,")
         .replace("\n", "\\n")
     )
 
 
-def fetch_day(date_str: str):
+def fetch_day(date_str):
     r = requests.get(BASE, params={"date": date_str}, timeout=TIMEOUT)
     r.raise_for_status()
     return r.json().get("show_list", []) or []
 
 
-def to_dt_local(d, t):
+def to_dt(d, t):
     h, m = t.split(":")
     return dt.datetime(d.year, d.month, d.day, int(h), int(m), tzinfo=TZ)
 
@@ -68,10 +68,10 @@ def normalize_cast(show):
     return out
 
 
-def build_desc(main_artist, main_role, city, theatre, cast_pairs):
+def build_desc(artist, role, city, theatre, cast_pairs):
     lines = [
-        f"演员：{main_artist}",
-        f"角色：{main_role}" if main_role else "",
+        f"演员：{artist}",
+        f"角色：{role}" if role else "",
         "",
         "同场演员："
     ]
@@ -88,7 +88,7 @@ def build_desc(main_artist, main_role, city, theatre, cast_pairs):
 
 
 def build_event(artist, role, d, show):
-    start = to_dt_local(d, show["time"])
+    start = to_dt(d, show["time"])
     end = start + dt.timedelta(hours=DURATION_HOURS)
 
     musical = show.get("musical", "")
@@ -123,23 +123,6 @@ def build_event(artist, role, d, show):
     }
 
 
-def parse_existing(path):
-    if not path.exists():
-        return [], set()
-
-    text = path.read_text(encoding="utf-8")
-    events = []
-    seen = set()
-
-    blocks = text.split("BEGIN:VEVENT")[1:]
-    for b in blocks:
-        uid = b.split("UID:")[1].split("\n")[0].strip()
-        seen.add(uid)
-        events.append("BEGIN:VEVENT" + b)
-
-    return events, seen
-
-
 def write_ics(path, events):
     now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
 
@@ -150,7 +133,17 @@ def write_ics(path, events):
     ]
 
     for e in events:
-        lines.append(e)
+        lines += [
+            "BEGIN:VEVENT",
+            f"UID:{e['uid']}",
+            f"DTSTAMP:{now}",
+            f"DTSTART;TZID=Asia/Shanghai:{e['start'].strftime('%Y%m%dT%H%M%S')}",
+            f"DTEND;TZID=Asia/Shanghai:{e['end'].strftime('%Y%m%dT%H%M%S')}",
+            f"SUMMARY:{escape_ics(e['summary'])}",
+            f"LOCATION:{escape_ics(e['location'])}",
+            f"DESCRIPTION:{escape_ics(e['desc'])}",
+            "END:VEVENT",
+        ]
 
     lines.append("END:VCALENDAR")
     path.write_text("\n".join(lines), encoding="utf-8")
@@ -158,55 +151,43 @@ def write_ics(path, events):
 
 def main():
     today = dt.date.today()
-    start = today - dt.timedelta(days=LOOKBACK_DAYS)
-    end = today + dt.timedelta(days=FUTURE_DAYS)
+    end_date = today + dt.timedelta(days=FUTURE_DAYS)
 
-    for aid, name in ARTISTS.items():
-        path = OUT / f"artist_{aid}.ics"
+    events_by_artist = {aid: [] for aid in ARTISTS}
+    seen = {aid: set() for aid in ARTISTS}
 
-        existing_events, seen = parse_existing(path)
-        new_events = []
+    total = (end_date - START_DATE).days + 1
 
-        total = (end - start).days + 1
+    for i in range(total):
+        d = START_DATE + dt.timedelta(days=i)
 
-        for i in range(total):
-            d = start + dt.timedelta(days=i)
+        if i % 50 == 0:
+            print(f"[{i}/{total}] {d}")
 
-            if i % 50 == 0:
-                print(f"{name} [{i}/{total}] {d}")
+        try:
+            shows = fetch_day(d.isoformat())
+        except:
+            continue
 
-            try:
-                shows = fetch_day(d.isoformat())
-            except:
-                continue
+        for show in shows:
+            for c in show.get("cast", []):
+                artist_in_show = c.get("artist")
+                role = c.get("role")
 
-            for show in shows:
-                for c in show.get("cast", []):
-                    if c.get("artist") == name:
-                        ev = build_event(name, c.get("role"), d, show)
+                for aid, name in ARTISTS.items():
+                    if artist_in_show == name:
+                        ev = build_event(name, role, d, show)
 
-                        if ev["uid"] in seen:
+                        if ev["uid"] in seen[aid]:
                             continue
 
-                        seen.add(ev["uid"])
+                        seen[aid].add(ev["uid"])
+                        events_by_artist[aid].append(ev)
 
-                        new_events.append(
-                            "\n".join([
-                                "BEGIN:VEVENT",
-                                f"UID:{ev['uid']}",
-                                f"DTSTAMP:{dt.datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}",
-                                f"DTSTART;TZID=Asia/Shanghai:{ev['start'].strftime('%Y%m%dT%H%M%S')}",
-                                f"DTEND;TZID=Asia/Shanghai:{ev['end'].strftime('%Y%m%dT%H%M%S')}",
-                                f"SUMMARY:{escape_ics(ev['summary'])}",
-                                f"LOCATION:{escape_ics(ev['location'])}",
-                                f"DESCRIPTION:{escape_ics(ev['desc'])}",
-                                "END:VEVENT"
-                            ])
-                        )
-
-        print(f"{name} 新增 {len(new_events)} 场")
-
-        write_ics(path, existing_events + new_events)
+    for aid, name in ARTISTS.items():
+        evs = sorted(events_by_artist[aid], key=lambda x: x["start"])
+        write_ics(OUT / f"artist_{aid}.ics", evs)
+        print(f"{name} 共 {len(evs)} 场")
 
 
 if __name__ == "__main__":
