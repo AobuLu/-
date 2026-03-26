@@ -7,21 +7,16 @@ from pathlib import Path
 TZ = ZoneInfo("Asia/Shanghai")
 BASE = "https://y.saoju.net/yyj/api/search_day/"
 
-# 只生成这两个演员的日历
 ARTISTS = {
     "977": "赵奕然",
     "1779": "庞东轩",
 }
 
-# 历史起始时间（越早越全，越慢）
-START_DATE = dt.date(2018, 1, 1)
+# ===== 增量策略 =====
+LOOKBACK_DAYS = 2        # 向前补 2 天
+FUTURE_DAYS = 365       # 向后一年
 
-# 未来扫描天数
-FUTURE_DAYS = 365
-
-# 每场演出时长（小时）
 DURATION_HOURS = 2
-
 TIMEOUT = 20
 
 OUT = Path("docs")
@@ -36,14 +31,11 @@ def make_uid(*parts: str) -> str:
 def escape_ics(s: str) -> str:
     if s is None:
         return ""
-    s = str(s)
     return (
-        s.replace("\\", "\\\\")
-         .replace(";", "\\;")
-         .replace(",", "\\,")
-         .replace("\r\n", "\n")
-         .replace("\r", "\n")
-         .replace("\n", "\\n")
+        str(s).replace("\\", "\\\\")
+        .replace(";", "\\;")
+        .replace(",", "\\,")
+        .replace("\n", "\\n")
     )
 
 
@@ -53,27 +45,22 @@ def fetch_day(date_str: str):
     return r.json().get("show_list", []) or []
 
 
-def to_dt_local(date_obj: dt.date, hhmm: str) -> dt.datetime:
-    h, m = hhmm.split(":")
-    return dt.datetime(
-        date_obj.year, date_obj.month, date_obj.day,
-        int(h), int(m),
-        tzinfo=TZ
-    )
+def to_dt_local(d, t):
+    h, m = t.split(":")
+    return dt.datetime(d.year, d.month, d.day, int(h), int(m), tzinfo=TZ)
 
 
-def session_label(hhmm: str) -> str:
-    """根据开演时间判断 午 / 晚"""
-    if hhmm in ("14:00", "14:30"):
+def session_label(t):
+    if t in ("14:00", "14:30"):
         return "午"
-    if hhmm in ("19:00", "19:30"):
+    if t in ("19:00", "19:30"):
         return "晚"
     return ""
 
 
-def normalize_cast(show: dict):
+def normalize_cast(show):
     out = []
-    for c in (show.get("cast") or []):
+    for c in show.get("cast", []):
         a = (c.get("artist") or "").strip()
         r = (c.get("role") or "").strip()
         if a:
@@ -81,77 +68,49 @@ def normalize_cast(show: dict):
     return out
 
 
-def build_description(main_artist: str, main_role: str, city: str, theatre: str, cast_pairs: list):
-    lines = []
-    lines.append(f"演员：{main_artist}")
-    if main_role:
-        lines.append(f"角色：{main_role}")
-
-    lines.append("")
-    lines.append("同场演员（本场完整卡司）：")
-
-    main_line = f"- {main_artist}"
-    if main_role:
-        main_line += f"（{main_role}）"
-    main_line += "  ← 本日历主角"
-    lines.append(main_line)
+def build_desc(main_artist, main_role, city, theatre, cast_pairs):
+    lines = [
+        f"演员：{main_artist}",
+        f"角色：{main_role}" if main_role else "",
+        "",
+        "同场演员："
+    ]
 
     for a, r in cast_pairs:
-        if a == main_artist:
-            continue
         if r:
             lines.append(f"- {a}（{r}）")
         else:
             lines.append(f"- {a}")
 
-    lines.append("")
-    if city:
-        lines.append(f"城市：{city}")
-    if theatre:
-        lines.append(f"剧院：{theatre}")
+    lines += ["", f"城市：{city}", f"剧院：{theatre}"]
 
-    return "\n".join(lines)
+    return "\n".join([x for x in lines if x])
 
 
-def build_event_for_artist(artist_name: str, role: str, d: dt.date, show: dict):
+def build_event(artist, role, d, show):
     start = to_dt_local(d, show["time"])
     end = start + dt.timedelta(hours=DURATION_HOURS)
 
-    musical = (show.get("musical") or "").strip()
-    city = (show.get("city") or "").strip()
-    theatre = (show.get("theatre") or "").strip()
-    time_str = (show.get("time") or "").strip()
+    musical = show.get("musical", "")
+    city = show.get("city", "")
+    theatre = show.get("theatre", "")
+    time_str = show.get("time", "")
 
     label = session_label(time_str)
-    cast_pairs = normalize_cast(show)
 
-    # ===== 标题：剧名｜午/晚｜演员｜角色 =====
     parts = [musical]
     if label:
         parts.append(label)
-    parts.append(artist_name)
+    parts.append(artist)
     if role:
         parts.append(role)
+
     summary = "｜".join(parts)
 
-    location = f"{city} {theatre}".strip()
-
-    desc = build_description(
-        main_artist=artist_name,
-        main_role=role,
-        city=city,
-        theatre=theatre,
-        cast_pairs=cast_pairs
-    )
+    cast_pairs = normalize_cast(show)
 
     uid = make_uid(
-        artist_name,
-        d.isoformat(),
-        time_str,
-        musical,
-        theatre,
-        role,
-        "|".join([f"{a}:{r}" for a, r in cast_pairs])
+        artist, d.isoformat(), time_str, musical, theatre, role
     )
 
     return {
@@ -159,77 +118,95 @@ def build_event_for_artist(artist_name: str, role: str, d: dt.date, show: dict):
         "start": start,
         "end": end,
         "summary": summary,
-        "location": location,
-        "desc": desc,
+        "location": f"{city} {theatre}",
+        "desc": build_desc(artist, role, city, theatre, cast_pairs),
     }
 
 
-def write_ics(artist_name: str, events: list, out_path: Path):
-    now_utc = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+def parse_existing(path):
+    if not path.exists():
+        return [], set()
+
+    text = path.read_text(encoding="utf-8")
+    events = []
+    seen = set()
+
+    blocks = text.split("BEGIN:VEVENT")[1:]
+    for b in blocks:
+        uid = b.split("UID:")[1].split("\n")[0].strip()
+        seen.add(uid)
+        events.append("BEGIN:VEVENT" + b)
+
+    return events, seen
+
+
+def write_ics(path, events):
+    now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "CALSCALE:GREGORIAN",
-        "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{escape_ics(artist_name)} 演出排期",
-        "X-WR-TIMEZONE:Asia/Shanghai",
     ]
 
     for e in events:
-        lines += [
-            "BEGIN:VEVENT",
-            f"UID:{e['uid']}",
-            f"DTSTAMP:{now_utc}",
-            f"DTSTART;TZID=Asia/Shanghai:{e['start'].strftime('%Y%m%dT%H%M%S')}",
-            f"DTEND;TZID=Asia/Shanghai:{e['end'].strftime('%Y%m%dT%H%M%S')}",
-            f"SUMMARY:{escape_ics(e['summary'])}",
-            f"LOCATION:{escape_ics(e['location'])}",
-            f"DESCRIPTION:{escape_ics(e['desc'])}",
-            "END:VEVENT",
-        ]
+        lines.append(e)
 
     lines.append("END:VCALENDAR")
-    out_path.write_text("\n".join(lines), encoding="utf-8")
+    path.write_text("\n".join(lines), encoding="utf-8")
 
 
 def main():
     today = dt.date.today()
-    end_date = today + dt.timedelta(days=FUTURE_DAYS)
-    total_days = (end_date - START_DATE).days + 1
+    start = today - dt.timedelta(days=LOOKBACK_DAYS)
+    end = today + dt.timedelta(days=FUTURE_DAYS)
 
-    events_by_artist = {aid: [] for aid in ARTISTS}
-    seen_uid = {aid: set() for aid in ARTISTS}
+    for aid, name in ARTISTS.items():
+        path = OUT / f"artist_{aid}.ics"
 
-    for idx in range(total_days):
-        d = START_DATE + dt.timedelta(days=idx)
-        if idx % 50 == 0 or idx == total_days - 1:
-            print(f"[DAY {idx+1}/{total_days}] {d.isoformat()}")
+        existing_events, seen = parse_existing(path)
+        new_events = []
 
-        try:
-            shows = fetch_day(d.isoformat())
-        except Exception as e:
-            print(f"[ERR DAY] {d.isoformat()} {e}")
-            continue
+        total = (end - start).days + 1
 
-        for show in shows:
-            for c in (show.get("cast") or []):
-                artist_in_show = (c.get("artist") or "").strip()
-                role_in_show = (c.get("role") or "").strip()
+        for i in range(total):
+            d = start + dt.timedelta(days=i)
 
-                for artist_id, artist_name in ARTISTS.items():
-                    if artist_in_show == artist_name:
-                        ev = build_event_for_artist(artist_name, role_in_show, d, show)
-                        if ev["uid"] in seen_uid[artist_id]:
+            if i % 50 == 0:
+                print(f"{name} [{i}/{total}] {d}")
+
+            try:
+                shows = fetch_day(d.isoformat())
+            except:
+                continue
+
+            for show in shows:
+                for c in show.get("cast", []):
+                    if c.get("artist") == name:
+                        ev = build_event(name, c.get("role"), d, show)
+
+                        if ev["uid"] in seen:
                             continue
-                        seen_uid[artist_id].add(ev["uid"])
-                        events_by_artist[artist_id].append(ev)
 
-    for artist_id, artist_name in ARTISTS.items():
-        evs = sorted(events_by_artist[artist_id], key=lambda x: x["start"])
-        out_file = OUT / f"artist_{artist_id}.ics"
-        write_ics(artist_name, evs, out_file)
-        print(f"[OK] {artist_name}: {len(evs)} events → {out_file}")
+                        seen.add(ev["uid"])
+
+                        new_events.append(
+                            "\n".join([
+                                "BEGIN:VEVENT",
+                                f"UID:{ev['uid']}",
+                                f"DTSTAMP:{dt.datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}",
+                                f"DTSTART;TZID=Asia/Shanghai:{ev['start'].strftime('%Y%m%dT%H%M%S')}",
+                                f"DTEND;TZID=Asia/Shanghai:{ev['end'].strftime('%Y%m%dT%H%M%S')}",
+                                f"SUMMARY:{escape_ics(ev['summary'])}",
+                                f"LOCATION:{escape_ics(ev['location'])}",
+                                f"DESCRIPTION:{escape_ics(ev['desc'])}",
+                                "END:VEVENT"
+                            ])
+                        )
+
+        print(f"{name} 新增 {len(new_events)} 场")
+
+        write_ics(path, existing_events + new_events)
 
 
 if __name__ == "__main__":
