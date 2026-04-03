@@ -903,3 +903,40 @@ END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
+BEGIN:VEVENT
+UID:0a8a3df42dabb8c28d4d0717944ef5420d772ef9@saoju
+DTSTAMP:20260403T094905Z
+DTSTART;TZID=Asia/Shanghai:20260502T193000
+DTEND;TZID=Asia/Shanghai:20260502T213000
+SUMMARY:新贵｜晚｜庞东轩｜李K
+LOCATION:上海 星空间2047号·新贵剧场
+DESCRIPTION:演员：庞东轩\n角色：李K\n同场演员：\n- 庞东轩（李K）\n- 尚杭（张衡）\n- 徐郑凯伊（阿旭）\n- 李季（黛安娜）\n城市：上海\n剧院：星空间2047号·新贵剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0cb8e72772d701b87a0025efedc9d31d668f53@saoju
+DTSTAMP:20260403T094907Z
+DTSTART;TZID=Asia/Shanghai:20260504T143000
+DTEND;TZID=Asia/Shanghai:20260504T163000
+SUMMARY:新贵｜午｜庞东轩｜李K
+LOCATION:上海 星空间2047号·新贵剧场
+DESCRIPTION:演员：庞东轩\n角色：李K\n同场演员：\n- 庞东轩（李K）\n- 张力夫（张衡）\n- 洪果（阿旭）\n- 刘晓（黛安娜）\n城市：上海\n剧院：星空间2047号·新贵剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:4ae5c40b7b133229032ccb45271033df206dcc20@saoju
+DTSTAMP:20260403T094917Z
+DTSTART;TZID=Asia/Shanghai:20260515T193000
+DTEND;TZID=Asia/Shanghai:20260515T213000
+SUMMARY:新贵｜晚｜庞东轩｜李K
+LOCATION:上海 星空间2047号·新贵剧场
+DESCRIPTION:演员：庞东轩\n角色：李K\n同场演员：\n- 庞东轩（李K）\n- 尚杭（张衡）\n- 徐郑凯伊（阿旭）\n- 李季（黛安娜）\n城市：上海\n剧院：星空间2047号·新贵剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:6d692fe87e407498dbb5b05fadebc8799e879662@saoju
+DTSTAMP:20260403T094923Z
+DTSTART;TZID=Asia/Shanghai:20260523T143000
+DTEND;TZID=Asia/Shanghai:20260523T163000
+SUMMARY:新贵｜午｜庞东轩｜李K
+LOCATION:上海 星空间2047号·新贵剧场
+DESCRIPTION:演员：庞东轩\n角色：李K\n同场演员：\n- 庞东轩（李K）\n- 张力夫（张衡）\n- 章允蓝（阿旭）\n- 胡星瑞（黛安娜）\n城市：上海\n剧院：星空间2047号·新贵剧场
+END:VEVENT
+END:VCALENDAR
