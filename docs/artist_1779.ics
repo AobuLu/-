@@ -943,3 +943,49 @@ END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
+BEGIN:VEVENT
+UID:a9bc298962c0df8257f1490e1d7b1b8bed1a95fa@saoju
+DTSTAMP:20260407T100455Z
+DTSTART;TZID=Asia/Shanghai:20260517T193000
+DTEND;TZID=Asia/Shanghai:20260517T213000
+SUMMARY:怪物｜晚｜庞东轩｜里奥
+LOCATION:上海 星空间18号·谜剧场
+DESCRIPTION:演员：庞东轩\n角色：里奥\n同场演员：\n- 庞东轩（里奥）\n- 吴盛祥（韦恩）\n城市：上海\n剧院：星空间18号·谜剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:0f337c6030533224b5fd70fbd074243d190daf5b@saoju
+DTSTAMP:20260407T100458Z
+DTSTART;TZID=Asia/Shanghai:20260520T193000
+DTEND;TZID=Asia/Shanghai:20260520T213000
+SUMMARY:幽灵｜晚｜庞东轩｜David
+LOCATION:上海 星空间168号·谜剧场
+DESCRIPTION:演员：庞东轩\n角色：David\n同场演员：\n- 吴盛祥（Teddy）\n- 徐佳文（Alex）\n- 庞东轩（David）\n城市：上海\n剧院：星空间168号·谜剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:7ebc6b54ce8cbe06625f4d52241c6c53cee31e03@saoju
+DTSTAMP:20260407T100502Z
+DTSTART;TZID=Asia/Shanghai:20260524T143000
+DTEND;TZID=Asia/Shanghai:20260524T163000
+SUMMARY:怪物｜午｜庞东轩｜里奥
+LOCATION:上海 星空间18号·谜剧场
+DESCRIPTION:演员：庞东轩\n角色：里奥\n同场演员：\n- 庞东轩（里奥）\n- 刘朱烨（韦恩）\n城市：上海\n剧院：星空间18号·谜剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e7e9c3e9f264c144ec8480f0ac7f90e3894027@saoju
+DTSTAMP:20260407T100507Z
+DTSTART;TZID=Asia/Shanghai:20260529T193000
+DTEND;TZID=Asia/Shanghai:20260529T213000
+SUMMARY:幽灵｜晚｜庞东轩｜David
+LOCATION:上海 星空间168号·谜剧场
+DESCRIPTION:演员：庞东轩\n角色：David\n同场演员：\n- 卢翰林（Teddy）\n- 赵奕然（Alex）\n- 庞东轩（David）\n城市：上海\n剧院：星空间168号·谜剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba0a119568fe0c10694a883d6950c3ab145e027@saoju
+DTSTAMP:20260407T100508Z
+DTSTART;TZID=Asia/Shanghai:20260530T143000
+DTEND;TZID=Asia/Shanghai:20260530T163000
+SUMMARY:幽灵｜午｜庞东轩｜David
+LOCATION:上海 星空间168号·谜剧场
+DESCRIPTION:演员：庞东轩\n角色：David\n同场演员：\n- 蓝浩（Teddy）\n- 邵立君（Alex）\n- 庞东轩（David）\n城市：上海\n剧院：星空间168号·谜剧场
+END:VEVENT
+END:VCALENDAR
