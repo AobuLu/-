@@ -2853,3 +2853,13 @@ DESCRIPTION:演员：赵奕然\n角色：里奥\n同场演员：\n- 赵奕然（
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
+BEGIN:VEVENT
+UID:987540236bb024296b1d33768c5635bdb1dac557@saoju
+DTSTAMP:20260409T100327Z
+DTSTART;TZID=Asia/Shanghai:20260516T143000
+DTEND;TZID=Asia/Shanghai:20260516T163000
+SUMMARY:时光代理人｜午｜赵奕然｜陆光
+LOCATION:上海 时光剧场
+DESCRIPTION:演员：赵奕然\n角色：陆光\n同场演员：\n- 姜义哲（程小时）\n- 赵奕然（陆光）\n- 闫乐湟（乔苓）\n- 朱佳艳（林贞/陈潇妈）\n- 宋元明（陈潇/陆鸿斌）\n城市：上海\n剧院：时光剧场
+END:VEVENT
+END:VCALENDAR
