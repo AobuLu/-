@@ -2863,3 +2863,49 @@ LOCATION:上海 时光剧场
 DESCRIPTION:演员：赵奕然\n角色：陆光\n同场演员：\n- 姜义哲（程小时）\n- 赵奕然（陆光）\n- 闫乐湟（乔苓）\n- 朱佳艳（林贞/陈潇妈）\n- 宋元明（陈潇/陆鸿斌）\n城市：上海\n剧院：时光剧场
 END:VEVENT
 END:VCALENDAR
+BEGIN:VEVENT
+UID:6216429c04d36f06c3a01bf01edd54727695805d@saoju
+DTSTAMP:20260410T100056Z
+DTSTART;TZID=Asia/Shanghai:20260515T193000
+DTEND;TZID=Asia/Shanghai:20260515T213000
+SUMMARY:嗜血博士｜晚｜赵奕然｜乔纳森
+LOCATION:上海 星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n同场演员：\n- 陈政宇（爱德华）\n- 赵奕然（乔纳森）\n- 黄雨蝶（玛莎）\n城市：上海\n剧院：星空间1023号·涵金小剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf6150f2b5bb2b0ca328c76fbfdf74272d8e963@saoju
+DTSTAMP:20260410T100105Z
+DTSTART;TZID=Asia/Shanghai:20260524T143000
+DTEND;TZID=Asia/Shanghai:20260524T163000
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
+LOCATION:上海 星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n同场演员：\n- 王瑞（爱德华）\n- 赵奕然（乔纳森）\n- 黄可（玛莎）\n城市：上海\n剧院：星空间1023号·涵金小剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ac7e9d2e0ebf0bc1839e469d4a6a5007f0f562@saoju
+DTSTAMP:20260410T100110Z
+DTSTART;TZID=Asia/Shanghai:20260530T143000
+DTEND;TZID=Asia/Shanghai:20260530T163000
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
+LOCATION:上海 星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n同场演员：\n- 刘朱烨（海曼）\n- 赵奕然（威廉）\n- 冯远（贝拉）\n- 王竞琦（阿曼达）\n城市：上海\n剧院：星空间8808号·涵金剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:79d91301dfdc4a5a0a7c499114131a45b1c5ef6e@saoju
+DTSTAMP:20260410T100122Z
+DTSTART;TZID=Asia/Shanghai:20260613T143000
+DTEND;TZID=Asia/Shanghai:20260613T163000
+SUMMARY:嗜血博士｜午｜赵奕然｜乔纳森
+LOCATION:上海 星空间1023号·涵金小剧场
+DESCRIPTION:演员：赵奕然\n角色：乔纳森\n同场演员：\n- 朱亚洲（爱德华）\n- 赵奕然（乔纳森）\n- 黄可（玛莎）\n城市：上海\n剧院：星空间1023号·涵金小剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1b68224a72329defe5ca84848338d0fa8392d2@saoju
+DTSTAMP:20260410T100123Z
+DTSTART;TZID=Asia/Shanghai:20260614T143000
+DTEND;TZID=Asia/Shanghai:20260614T163000
+SUMMARY:末日迷途｜午｜赵奕然｜威廉
+LOCATION:上海 星空间8808号·涵金剧场
+DESCRIPTION:演员：赵奕然\n角色：威廉\n同场演员：\n- 陈政宇（海曼）\n- 赵奕然（威廉）\n- 罗玉玲（贝拉）\n- 洪果（阿曼达）\n城市：上海\n剧院：星空间8808号·涵金剧场
+END:VEVENT
+END:VCALENDAR
