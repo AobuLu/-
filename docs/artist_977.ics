@@ -2915,3 +2915,22 @@ END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
+BEGIN:VEVENT
+UID:d96543647cb6a296c8cf1e9bca3ccb2f99db532a@saoju
+DTSTAMP:20260417T100549Z
+DTSTART;TZID=Asia/Shanghai:20260621T143000
+DTEND;TZID=Asia/Shanghai:20260621T163000
+SUMMARY:秘密花园｜午｜赵奕然｜查理&科林
+LOCATION:上海 茉莉花剧场
+DESCRIPTION:演员：赵奕然\n角色：查理&科林\n同场演员：\n- 陈玉婷（艾米&玛丽）\n- 张琦（黛娜&玛莎）\n- 赵奕然（查理&科林）\n- 吴盛祥（比尔&迪肯）\n城市：上海\n剧院：茉莉花剧场
+END:VEVENT
+BEGIN:VEVENT
+UID:33358fb1743f689bdee5dab6f01a91df317450c8@saoju
+DTSTAMP:20260417T100554Z
+DTSTART;TZID=Asia/Shanghai:20260627T143000
+DTEND;TZID=Asia/Shanghai:20260627T163000
+SUMMARY:秘密花园｜午｜赵奕然｜查理&科林
+LOCATION:上海 茉莉花剧场
+DESCRIPTION:演员：赵奕然\n角色：查理&科林\n同场演员：\n- 程晨（艾米&玛丽）\n- 林润欣（黛娜&玛莎）\n- 赵奕然（查理&科林）\n- 李磊（比尔&迪肯）\n城市：上海\n剧院：茉莉花剧场
+END:VEVENT
+END:VCALENDAR
