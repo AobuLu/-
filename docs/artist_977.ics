@@ -2936,3 +2936,49 @@ END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
 END:VCALENDAR
+BEGIN:VEVENT
+UID:2849e7ee31fd063be7ba1591e0d2ded8b89044b4@saoju
+DTSTAMP:20260420T102703Z
+DTSTART;TZID=Asia/Shanghai:20260624T193000
+DTEND;TZID=Asia/Shanghai:20260624T213000
+SUMMARY:星期三｜晚｜赵奕然｜Hans
+LOCATION:上海 中国大戏院
+DESCRIPTION:演员：赵奕然\n角色：Hans\n同场演员：\n- 赵奕然（Hans）\n- 胡迪（Herman）\n- 宁梦恬（Anna）\n- 郝李英杰（Jonas）\n- 刘羿含（Mary）\n城市：上海\n剧院：中国大戏院
+END:VEVENT
+BEGIN:VEVENT
+UID:537149b303edde4569bb455adbf67f8c6e47bd6f@saoju
+DTSTAMP:20260420T102704Z
+DTSTART;TZID=Asia/Shanghai:20260626T193000
+DTEND;TZID=Asia/Shanghai:20260626T213000
+SUMMARY:星期三｜晚｜赵奕然｜Hans
+LOCATION:上海 中国大戏院
+DESCRIPTION:演员：赵奕然\n角色：Hans\n同场演员：\n- 赵奕然（Hans）\n- 郭嘉轩（Herman）\n- 宁梦恬（Anna）\n- 何严浩（Jonas）\n- 刘羿含（Mary）\n城市：上海\n剧院：中国大戏院
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d491e64552b528e8cd1f55e1da647293982a60@saoju
+DTSTAMP:20260420T102706Z
+DTSTART;TZID=Asia/Shanghai:20260628T193000
+DTEND;TZID=Asia/Shanghai:20260628T213000
+SUMMARY:奥尔菲斯｜晚｜赵奕然｜奥尔菲斯
+LOCATION:上海 上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n同场演员：\n- 王敏辉（托马斯）\n- 赵奕然（奥尔菲斯）\n- 遇泓羊（比尔）\n- 黄雨蝶（赛琳娜）\n- 叶嘉雯（欧莉）\n城市：上海\n剧院：上海共舞台
+END:VEVENT
+BEGIN:VEVENT
+UID:1411038d1e61da3f0a1512c5af7ba6e5f633bf54@saoju
+DTSTAMP:20260420T102709Z
+DTSTART;TZID=Asia/Shanghai:20260703T193000
+DTEND;TZID=Asia/Shanghai:20260703T213000
+SUMMARY:奥尔菲斯｜晚｜赵奕然｜奥尔菲斯
+LOCATION:上海 上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n同场演员：\n- 刘朱烨（托马斯）\n- 赵奕然（奥尔菲斯）\n- 遇泓羊（比尔）\n- 马小乔（赛琳娜）\n- 潘珏辰（欧莉）\n城市：上海\n剧院：上海共舞台
+END:VEVENT
+BEGIN:VEVENT
+UID:7fbf14e6c51902de4fb9855f374db30ac0be4c7e@saoju
+DTSTAMP:20260420T102710Z
+DTSTART;TZID=Asia/Shanghai:20260704T193000
+DTEND;TZID=Asia/Shanghai:20260704T213000
+SUMMARY:奥尔菲斯｜晚｜赵奕然｜奥尔菲斯
+LOCATION:上海 上海共舞台
+DESCRIPTION:演员：赵奕然\n角色：奥尔菲斯\n同场演员：\n- 卢翰林（托马斯）\n- 赵奕然（奥尔菲斯）\n- 庞东轩（比尔）\n- 吴嘉怡（赛琳娜）\n- 盛嘉怡（欧莉）\n城市：上海\n剧院：上海共舞台
+END:VEVENT
+END:VCALENDAR
