@@ -1,6 +1,7 @@
 import requests
 import datetime as dt
 import hashlib
+import re
 from zoneinfo import ZoneInfo
 from pathlib import Path
 
@@ -12,7 +13,6 @@ ARTISTS = {
     "1779": "庞东轩",
 }
 
-# ===== 增量更新范围 =====
 LOOKBACK_DAYS = 2
 FUTURE_DAYS = 365
 
@@ -76,7 +76,7 @@ def build_desc(main_artist: str, main_role: str, city: str, theatre: str, cast_p
         f"演员：{main_artist}",
         f"角色：{main_role}" if main_role else "",
         "",
-        "同场演员："
+        "同场演员：",
     ]
 
     for a, r in cast_pairs:
@@ -101,7 +101,6 @@ def build_event(artist: str, role: str, d: dt.date, show: dict):
 
     label = session_label(time_str)
 
-    # 标题：剧名｜午/晚｜演员名｜角色名
     parts = [musical]
     if label:
         parts.append(label)
@@ -113,7 +112,12 @@ def build_event(artist: str, role: str, d: dt.date, show: dict):
     cast_pairs = normalize_cast(show)
 
     uid = make_uid(
-        artist, d.isoformat(), time_str, musical, theatre, role
+        artist,
+        d.isoformat(),
+        time_str,
+        musical,
+        theatre,
+        role,
     )
 
     return {
@@ -126,46 +130,105 @@ def build_event(artist: str, role: str, d: dt.date, show: dict):
     }
 
 
-def parse_existing_ics(path: Path):
+def ics_dtstamp() -> str:
+    return dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
+def extract_uid(block: str) -> str:
+    m = re.search(r"^UID:(.+)$", block, flags=re.MULTILINE)
+    return m.group(1).strip() if m else ""
+
+
+def extract_start_for_sort(block: str) -> dt.datetime:
+    m = re.search(
+        r"^DTSTART(?:;TZID=Asia/Shanghai)?:([0-9]{8}T[0-9]{6})$",
+        block,
+        flags=re.MULTILINE,
+    )
+    if not m:
+        return dt.datetime.min.replace(tzinfo=TZ)
+
+    raw = m.group(1)
+    try:
+        parsed = dt.datetime.strptime(raw, "%Y%m%dT%H%M%S")
+        return parsed.replace(tzinfo=TZ)
+    except Exception:
+        return dt.datetime.min.replace(tzinfo=TZ)
+
+
+def refresh_event_block(block: str, now_stamp: str) -> str:
     """
-    读取旧 ICS，提取已有 VEVENT 原文和 UID，避免重复写入。
-    这样历史事件会保留，只补充最近/未来新增内容。
+    保留旧事件内容，但刷新 DTSTAMP / LAST-MODIFIED。
+    这样 iPhone 更容易识别到订阅源已经更新。
+    """
+    block = block.strip()
+
+    if re.search(r"^DTSTAMP:", block, flags=re.MULTILINE):
+        block = re.sub(
+            r"^DTSTAMP:.*$",
+            f"DTSTAMP:{now_stamp}",
+            block,
+            flags=re.MULTILINE,
+        )
+    else:
+        block = block.replace("BEGIN:VEVENT", f"BEGIN:VEVENT\nDTSTAMP:{now_stamp}", 1)
+
+    if re.search(r"^LAST-MODIFIED:", block, flags=re.MULTILINE):
+        block = re.sub(
+            r"^LAST-MODIFIED:.*$",
+            f"LAST-MODIFIED:{now_stamp}",
+            block,
+            flags=re.MULTILINE,
+        )
+    else:
+        block = block.replace(f"DTSTAMP:{now_stamp}", f"DTSTAMP:{now_stamp}\nLAST-MODIFIED:{now_stamp}", 1)
+
+    return block
+
+
+def parse_existing_ics(path: Path, now_stamp: str):
+    """
+    读取旧 ICS，保留历史事件；
+    但不再原封不动写回，而是刷新 DTSTAMP / LAST-MODIFIED。
     """
     if not path.exists():
-        return [], set()
+        return {}
 
     text = path.read_text(encoding="utf-8")
     blocks = text.split("BEGIN:VEVENT")
     if len(blocks) == 1:
-        return [], set()
+        return {}
 
-    events = []
-    seen_uids = set()
+    events = {}
 
     for block in blocks[1:]:
         event_text = "BEGIN:VEVENT" + block
-        if "UID:" not in event_text:
+        if "END:VEVENT" not in event_text:
             continue
-        uid = event_text.split("UID:", 1)[1].splitlines()[0].strip()
-        if uid:
-            seen_uids.add(uid)
-            events.append(event_text.strip())
 
-    return events, seen_uids
+        event_text = event_text.split("END:VEVENT", 1)[0] + "END:VEVENT"
+
+        uid = extract_uid(event_text)
+        if not uid:
+            continue
+
+        events[uid] = refresh_event_block(event_text, now_stamp)
+
+    return events
 
 
-def build_event_block(ev: dict) -> str:
-    now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+def build_event_block(ev: dict, now_stamp: str) -> str:
     return "\n".join([
         "BEGIN:VEVENT",
         f"UID:{ev['uid']}",
-        f"DTSTAMP:{now}",
+        f"DTSTAMP:{now_stamp}",
+        f"LAST-MODIFIED:{now_stamp}",
         f"DTSTART;TZID=Asia/Shanghai:{ev['start'].strftime('%Y%m%dT%H%M%S')}",
         f"DTEND;TZID=Asia/Shanghai:{ev['end'].strftime('%Y%m%dT%H%M%S')}",
         f"SUMMARY:{escape_ics(ev['summary'])}",
         f"LOCATION:{escape_ics(ev['location'])}",
         f"DESCRIPTION:{escape_ics(ev['desc'])}",
-        "END:VEVENT"
+        "END:VEVENT",
     ])
 
 
@@ -175,7 +238,11 @@ def write_ics(path: Path, event_blocks: list):
         "VERSION:2.0",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
+        "PRODID:-//Saoju Artist Calendar//CN//",
+        "X-WR-CALNAME:演出排期",
         "X-WR-TIMEZONE:Asia/Shanghai",
+        "X-PUBLISHED-TTL:PT30M",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT30M",
     ]
 
     lines.extend(event_blocks)
@@ -190,20 +257,22 @@ def main():
     end_date = today + dt.timedelta(days=FUTURE_DAYS)
 
     total_days = (end_date - start_date).days + 1
+    now_stamp = ics_dtstamp()
 
     for artist_id, artist_name in ARTISTS.items():
         path = OUT / f"artist_{artist_id}.ics"
 
-        existing_blocks, seen_uids = parse_existing_ics(path)
-        new_blocks = []
+        event_map = parse_existing_ics(path, now_stamp)
 
         print(f"开始更新：{artist_name}")
+
+        added_or_updated = 0
 
         for i in range(total_days):
             d = start_date + dt.timedelta(days=i)
 
             if i % 50 == 0 or i == total_days - 1:
-                print(f"{artist_name} [{i+1}/{total_days}] {d.isoformat()}")
+                print(f"{artist_name} [{i + 1}/{total_days}] {d.isoformat()}")
 
             try:
                 shows = fetch_day(d.isoformat())
@@ -217,17 +286,18 @@ def main():
                         role = (c.get("role") or "").strip()
                         ev = build_event(artist_name, role, d, show)
 
-                        if ev["uid"] in seen_uids:
-                            continue
+                        # 用最新 API 结果覆盖同 UID 的旧事件
+                        event_map[ev["uid"]] = build_event_block(ev, now_stamp)
+                        added_or_updated += 1
 
-                        seen_uids.add(ev["uid"])
-                        new_blocks.append(build_event_block(ev))
+        all_blocks = list(event_map.values())
 
-        print(f"{artist_name} 新增 {len(new_blocks)} 场")
+        # 关键：按演出时间从新到旧排序，让未来/最新排期排在文件前面
+        all_blocks.sort(key=extract_start_for_sort, reverse=True)
 
-        all_blocks = existing_blocks + new_blocks
         write_ics(path, all_blocks)
 
+        print(f"{artist_name} 新增或更新 {added_or_updated} 场")
         print(f"[OK] {artist_name} -> {path}")
 
 
